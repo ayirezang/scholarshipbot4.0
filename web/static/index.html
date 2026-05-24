@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GlobalEdu Bridge</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <div class="header-inner">
+        <div class="brand">
+          <div class="brand-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+              <path d="M2 17l10 5 10-5"/>
+              <path d="M2 12l10 5 10-5"/>
+            </svg>
+          </div>
+          <div>
+            <h1>GlobalEdu Bridge</h1>
+            <p class="subtitle">Your Personal Scholarship Assistant</p>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="chat-area" id="chatArea"></main>
+
+    <div class="chips" id="chips"></div>
+
+    <footer class="input-bar">
+      <input type="text" id="messageInput" placeholder="Type your message..." autocomplete="off" disabled>
+      <button id="sendBtn" aria-label="Send message" disabled>
+        <svg viewBox="0 0 24 24" fill="currentColor">
+          <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+        </svg>
+      </button>
+    </footer>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

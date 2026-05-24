@@ -1,0 +1,293 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --blue: #1565c0;
+  --blue-light: #e3f2fd;
+  --blue-dark: #0d47a1;
+  --white: #ffffff;
+  --chat-bg: #f0f4f8;
+  --user-bg: #1565c0;
+  --bot-bg: #ffffff;
+  --text: #1a1a2e;
+  --text-muted: #546e7a;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: var(--chat-bg);
+  color: var(--text);
+  height: 100dvh;
+  overflow: hidden;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100dvh;
+  min-height: 100dvh;
+  background: var(--white);
+}
+
+.header {
+  background: linear-gradient(135deg, var(--blue) 0%, var(--blue-dark) 100%);
+  color: var(--white);
+  padding: 18px 20px;
+  flex-shrink: 0;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.brand-icon {
+  width: 44px;
+  height: 44px;
+  background: rgba(255, 255, 255, 0.18);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.brand-icon svg {
+  width: 26px;
+  height: 26px;
+  color: var(--white);
+}
+
+.header h1 {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.subtitle {
+  font-size: 0.82rem;
+  opacity: 0.85;
+  margin-top: 2px;
+}
+
+.chat-area {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px 16px;
+  background: var(--chat-bg);
+  scroll-behavior: smooth;
+}
+
+.msg {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 14px;
+  animation: slideIn 0.35s ease;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.msg.user {
+  flex-direction: row-reverse;
+}
+
+.avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--blue);
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.avatar svg {
+  width: 20px;
+  height: 20px;
+}
+
+.bubble {
+  max-width: 78%;
+  padding: 12px 16px;
+  border-radius: 18px;
+  line-height: 1.55;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  font-size: 0.95rem;
+}
+
+.msg.bot .bubble {
+  background: var(--bot-bg);
+  color: var(--text);
+  border-bottom-left-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.msg.user .bubble {
+  background: var(--user-bg);
+  color: var(--white);
+  border-bottom-right-radius: 4px;
+}
+
+.typing .bubble {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  padding: 14px 20px;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  background: #90a4ae;
+  border-radius: 50%;
+  animation: bounce 1.4s infinite ease-in-out;
+}
+
+.dot:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.dot:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes bounce {
+  0%,
+  80%,
+  100% {
+    transform: scale(0.6);
+    opacity: 0.4;
+  }
+  40% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 10px 16px;
+  background: var(--white);
+  border-top: 1px solid #e0e0e0;
+  flex-shrink: 0;
+}
+
+.chip {
+  background: var(--blue-light);
+  color: var(--blue);
+  border: 1px solid #bbdefb;
+  border-radius: 20px;
+  padding: 7px 16px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.chip:hover {
+  background: #bbdefb;
+}
+
+.chip:active {
+  transform: scale(0.95);
+}
+
+.input-bar {
+  display: flex;
+  gap: 10px;
+  padding: 12px 16px;
+  background: var(--white);
+  border-top: 1px solid #e0e0e0;
+  flex-shrink: 0;
+}
+
+.input-bar input {
+  flex: 1;
+  border: 1.5px solid #cfd8dc;
+  border-radius: 24px;
+  padding: 12px 18px;
+  font-size: 0.95rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.input-bar input:focus {
+  border-color: var(--blue);
+}
+
+.input-bar button {
+  background: var(--blue);
+  color: var(--white);
+  border: none;
+  border-radius: 50%;
+  width: 46px;
+  height: 46px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
+}
+
+.input-bar button:hover {
+  background: var(--blue-dark);
+}
+
+.input-bar button:disabled,
+.input-bar input:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.input-bar button svg {
+  width: 22px;
+  height: 22px;
+}
+
+@media (max-width: 480px) {
+  .header {
+    padding: 14px 16px;
+  }
+
+  .header h1 {
+    font-size: 1.1rem;
+  }
+
+  .bubble {
+    max-width: 85%;
+    font-size: 0.9rem;
+  }
+
+  .chips {
+    padding: 8px 12px;
+  }
+
+  .chip {
+    font-size: 0.8rem;
+    padding: 6px 12px;
+  }
+}
