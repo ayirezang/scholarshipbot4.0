@@ -6,3 +6,12 @@ itsdangerous==2.2.0
 Jinja2==3.1.6
 MarkupSafe==3.0.3
 Werkzeug==3.1.8
+
+# RAG pipeline
+numpy>=1.26
+scikit-learn>=1.5
+requests>=2.31
+
+# Optional backends (uncomment as needed):
+# chromadb>=1.5
+# openai>=1.0

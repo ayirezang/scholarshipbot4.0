@@ -1,0 +1,1912 @@
+id,scholarship_name,chunk_type,text,tokens
+ashinaga_africa_initiative_aai__summary,Ashinaga Africa Initiative (AAI),summary,"Scholarship: Ashinaga Africa Initiative (AAI)
+Provides orphaned Sub-Saharan African secondary school leavers full funding to complete an undergraduate degree abroad (Japan, US, UK, France, and others), including tuition, accommodation, and travel, plus leadership training. Anglophone-country applicants are now identified through partner high schools rather than open application.
+Provider: Ashinaga
+Level: undergraduate
+Field: any (engineering accepted but requires strong grades; medicine, dentistry, veterinary, and pharmacy not supported)
+Funding: fully_funded",68
+ashinaga_africa_initiative_aai__provider_sponsor,Ashinaga Africa Initiative (AAI),field:Provider/Sponsor,"Scholarship: Ashinaga Africa Initiative (AAI)
+Provider: Ashinaga
+Level: undergraduate
+Field: any (engineering accepted but requires strong grades; medicine, dentistry, veterinary, and pharmacy not supported)
+Funding: fully_funded
+
+Provider/Sponsor: Ashinaga",28
+ashinaga_africa_initiative_aai__level,Ashinaga Africa Initiative (AAI),field:Level,"Scholarship: Ashinaga Africa Initiative (AAI)
+Provider: Ashinaga
+Level: undergraduate
+Field: any (engineering accepted but requires strong grades; medicine, dentistry, veterinary, and pharmacy not supported)
+Funding: fully_funded
+
+Level: undergraduate",28
+ashinaga_africa_initiative_aai__field_of_study,Ashinaga Africa Initiative (AAI),field:Field of Study,"Scholarship: Ashinaga Africa Initiative (AAI)
+Provider: Ashinaga
+Level: undergraduate
+Field: any (engineering accepted but requires strong grades; medicine, dentistry, veterinary, and pharmacy not supported)
+Funding: fully_funded
+
+Field of Study: any (engineering accepted but requires strong grades; medicine, dentistry, veterinary, and pharmacy not supported)",43
+ashinaga_africa_initiative_aai__country_region,Ashinaga Africa Initiative (AAI),field:Country/Region,"Scholarship: Ashinaga Africa Initiative (AAI)
+Provider: Ashinaga
+Level: undergraduate
+Field: any (engineering accepted but requires strong grades; medicine, dentistry, veterinary, and pharmacy not supported)
+Funding: fully_funded
+
+Country/Region: Citizens of most Sub-Saharan African countries (46 of 49), including Ghana, Nigeria, Kenya, Cameroon, Senegal, and others",44
+ashinaga_africa_initiative_aai__funding_type,Ashinaga Africa Initiative (AAI),field:Funding Type,"Scholarship: Ashinaga Africa Initiative (AAI)
+Provider: Ashinaga
+Level: undergraduate
+Field: any (engineering accepted but requires strong grades; medicine, dentistry, veterinary, and pharmacy not supported)
+Funding: fully_funded
+
+Funding Type: fully_funded",29
+ashinaga_africa_initiative_aai__need_based,Ashinaga Africa Initiative (AAI),field:Need Based?,"Scholarship: Ashinaga Africa Initiative (AAI)
+Provider: Ashinaga
+Level: undergraduate
+Field: any (engineering accepted but requires strong grades; medicine, dentistry, veterinary, and pharmacy not supported)
+Funding: fully_funded
+
+Need Based?: yes",29
+ashinaga_africa_initiative_aai__deadline,Ashinaga Africa Initiative (AAI),field:Deadline,"Scholarship: Ashinaga Africa Initiative (AAI)
+Provider: Ashinaga
+Level: undergraduate
+Field: any (engineering accepted but requires strong grades; medicine, dentistry, veterinary, and pharmacy not supported)
+Funding: fully_funded
+
+Deadline: N/A",28
+ashinaga_africa_initiative_aai__amount,Ashinaga Africa Initiative (AAI),field:Amount,"Scholarship: Ashinaga Africa Initiative (AAI)
+Provider: Ashinaga
+Level: undergraduate
+Field: any (engineering accepted but requires strong grades; medicine, dentistry, veterinary, and pharmacy not supported)
+Funding: fully_funded
+
+Amount: NULL",28
+ashinaga_africa_initiative_aai__description,Ashinaga Africa Initiative (AAI),field:Description,"Scholarship: Ashinaga Africa Initiative (AAI)
+Provider: Ashinaga
+Level: undergraduate
+Field: any (engineering accepted but requires strong grades; medicine, dentistry, veterinary, and pharmacy not supported)
+Funding: fully_funded
+
+Provides orphaned Sub-Saharan African secondary school leavers full funding to complete an undergraduate degree abroad (Japan, US, UK, France, and others), including tuition, accommodation, and travel, plus leadership training. Anglophone-country applicants are now identified through partner high schools rather than open application.",68
+team_dc_student_athlete_scholarship__summary,Team DC Student Athlete Scholarship,summary,"Scholarship: Team DC Student Athlete Scholarship
+Supports LGBTQ+ student-athletes in the DC metro region pursuing higher education.
+Provider: Team DC
+Level: high_school
+Field: athletics",24
+team_dc_student_athlete_scholarship__provider_sponsor,Team DC Student Athlete Scholarship,field:Provider/Sponsor,"Scholarship: Team DC Student Athlete Scholarship
+Provider: Team DC
+Level: high_school
+Field: athletics
+
+Provider/Sponsor: Team DC",16
+team_dc_student_athlete_scholarship__level,Team DC Student Athlete Scholarship,field:Level,"Scholarship: Team DC Student Athlete Scholarship
+Provider: Team DC
+Level: high_school
+Field: athletics
+
+Level: high_school",15
+team_dc_student_athlete_scholarship__field_of_study,Team DC Student Athlete Scholarship,field:Field of Study,"Scholarship: Team DC Student Athlete Scholarship
+Provider: Team DC
+Level: high_school
+Field: athletics
+
+Field of Study: athletics",17
+team_dc_student_athlete_scholarship__min_grade_gpa,Team DC Student Athlete Scholarship,field:Min Grade/GPA,"Scholarship: Team DC Student Athlete Scholarship
+Provider: Team DC
+Level: high_school
+Field: athletics
+
+Min Grade/GPA: Student-athletes who identify as lesbian, gay, bisexual, or transgender and reside in or attended high school in the Washington DC metro area.",37
+team_dc_student_athlete_scholarship__deadline,Team DC Student Athlete Scholarship,field:Deadline,"Scholarship: Team DC Student Athlete Scholarship
+Provider: Team DC
+Level: high_school
+Field: athletics
+
+Deadline: February 13, 2026",17
+team_dc_student_athlete_scholarship__amount,Team DC Student Athlete Scholarship,field:Amount,"Scholarship: Team DC Student Athlete Scholarship
+Provider: Team DC
+Level: high_school
+Field: athletics
+
+Amount: $2,500",15
+team_dc_student_athlete_scholarship__description,Team DC Student Athlete Scholarship,field:Description,"Scholarship: Team DC Student Athlete Scholarship
+Provider: Team DC
+Level: high_school
+Field: athletics
+
+Supports LGBTQ+ student-athletes in the DC metro region pursuing higher education.",24
+jim_ovia_scholarship__summary,Jim Ovia Scholarship,summary,"Scholarship: Jim Ovia Scholarship
+Covers tuition and a maintenance allowance for Nigerian undergraduate students studying within Nigeria, aimed at supporting the country's next generation of leaders.
+Provider: Jim Ovia Foundation
+Level: undergraduate
+Field: any
+Funding: fully_funded",36
+jim_ovia_scholarship__provider_sponsor,Jim Ovia Scholarship,field:Provider/Sponsor,"Scholarship: Jim Ovia Scholarship
+Provider: Jim Ovia Foundation
+Level: undergraduate
+Field: any
+Funding: fully_funded
+
+Provider/Sponsor: Jim Ovia Foundation",18
+jim_ovia_scholarship__level,Jim Ovia Scholarship,field:Level,"Scholarship: Jim Ovia Scholarship
+Provider: Jim Ovia Foundation
+Level: undergraduate
+Field: any
+Funding: fully_funded
+
+Level: undergraduate",16
+jim_ovia_scholarship__field_of_study,Jim Ovia Scholarship,field:Field of Study,"Scholarship: Jim Ovia Scholarship
+Provider: Jim Ovia Foundation
+Level: undergraduate
+Field: any
+Funding: fully_funded
+
+Field of Study: any",18
+jim_ovia_scholarship__country_region,Jim Ovia Scholarship,field:Country/Region,"Scholarship: Jim Ovia Scholarship
+Provider: Jim Ovia Foundation
+Level: undergraduate
+Field: any
+Funding: fully_funded
+
+Country/Region: TBC",16
+jim_ovia_scholarship__funding_type,Jim Ovia Scholarship,field:Funding Type,"Scholarship: Jim Ovia Scholarship
+Provider: Jim Ovia Foundation
+Level: undergraduate
+Field: any
+Funding: fully_funded
+
+Funding Type: fully_funded",17
+jim_ovia_scholarship__need_based,Jim Ovia Scholarship,field:Need Based?,"Scholarship: Jim Ovia Scholarship
+Provider: Jim Ovia Foundation
+Level: undergraduate
+Field: any
+Funding: fully_funded
+
+Need Based?: no",17
+jim_ovia_scholarship__min_grade_gpa,Jim Ovia Scholarship,field:Min Grade/GPA,"Scholarship: Jim Ovia Scholarship
+Provider: Jim Ovia Foundation
+Level: undergraduate
+Field: any
+Funding: fully_funded
+
+Min Grade/GPA: Strong academic merit; specific GPA/grade thresholds set annually by the foundation",27
+jim_ovia_scholarship__description,Jim Ovia Scholarship,field:Description,"Scholarship: Jim Ovia Scholarship
+Provider: Jim Ovia Foundation
+Level: undergraduate
+Field: any
+Funding: fully_funded
+
+Covers tuition and a maintenance allowance for Nigerian undergraduate students studying within Nigeria, aimed at supporting the country's next generation of leaders.",36
+washington_state_opportunity_scholarship_baccalaureate__summary,Washington State Opportunity Scholarship (Baccalaureate),summary,"Scholarship: Washington State Opportunity Scholarship (Baccalaureate)
+A statewide program designed to help Washington students afford degrees in fields the state has identified as high-demand, including tech and programming.
+Provider: Washington State Opportunity Scholarship
+Level: undergraduate
+Field: computer_science",37
+washington_state_opportunity_scholarship_baccalaureate__provider_sponsor,Washington State Opportunity Scholarship (Baccalaureate),field:Provider/Sponsor,"Scholarship: Washington State Opportunity Scholarship (Baccalaureate)
+Provider: Washington State Opportunity Scholarship
+Level: undergraduate
+Field: computer_science
+
+Provider/Sponsor: Washington State Opportunity Scholarship",20
+washington_state_opportunity_scholarship_baccalaureate__level,Washington State Opportunity Scholarship (Baccalaureate),field:Level,"Scholarship: Washington State Opportunity Scholarship (Baccalaureate)
+Provider: Washington State Opportunity Scholarship
+Level: undergraduate
+Field: computer_science
+
+Level: undergraduate",17
+washington_state_opportunity_scholarship_baccalaureate__field_of_study,Washington State Opportunity Scholarship (Baccalaureate),field:Field of Study,"Scholarship: Washington State Opportunity Scholarship (Baccalaureate)
+Provider: Washington State Opportunity Scholarship
+Level: undergraduate
+Field: computer_science
+
+Field of Study: computer_science",19
+washington_state_opportunity_scholarship_baccalaureate__min_grade_gpa,Washington State Opportunity Scholarship (Baccalaureate),field:Min Grade/GPA,"Scholarship: Washington State Opportunity Scholarship (Baccalaureate)
+Provider: Washington State Opportunity Scholarship
+Level: undergraduate
+Field: computer_science
+
+Min Grade/GPA: Washington residents pursuing high-demand STEM majors, including computer science and software development, at approved Washington colleges.",33
+washington_state_opportunity_scholarship_baccalaureate__deadline,Washington State Opportunity Scholarship (Baccalaureate),field:Deadline,"Scholarship: Washington State Opportunity Scholarship (Baccalaureate)
+Provider: Washington State Opportunity Scholarship
+Level: undergraduate
+Field: computer_science
+
+Deadline: Varies by cycle",19
+washington_state_opportunity_scholarship_baccalaureate__amount,Washington State Opportunity Scholarship (Baccalaureate),field:Amount,"Scholarship: Washington State Opportunity Scholarship (Baccalaureate)
+Provider: Washington State Opportunity Scholarship
+Level: undergraduate
+Field: computer_science
+
+Amount: Varies",17
+washington_state_opportunity_scholarship_baccalaureate__description,Washington State Opportunity Scholarship (Baccalaureate),field:Description,"Scholarship: Washington State Opportunity Scholarship (Baccalaureate)
+Provider: Washington State Opportunity Scholarship
+Level: undergraduate
+Field: computer_science
+
+A statewide program designed to help Washington students afford degrees in fields the state has identified as high-demand, including tech and programming.",37
+john_carlton_myatt_writing_scholarship__summary,John Carlton Myatt Writing Scholarship,summary,"Scholarship: John Carlton Myatt Writing Scholarship
+A regional award supporting graduating seniors from a specific North Carolina county who show promise in creative writing.
+Provider: Guilford County Community Foundation
+Level: high_school
+Field: writing",33
+john_carlton_myatt_writing_scholarship__provider_sponsor,John Carlton Myatt Writing Scholarship,field:Provider/Sponsor,"Scholarship: John Carlton Myatt Writing Scholarship
+Provider: Guilford County Community Foundation
+Level: high_school
+Field: writing
+
+Provider/Sponsor: Guilford County Community Foundation",20
+john_carlton_myatt_writing_scholarship__level,John Carlton Myatt Writing Scholarship,field:Level,"Scholarship: John Carlton Myatt Writing Scholarship
+Provider: Guilford County Community Foundation
+Level: high_school
+Field: writing
+
+Level: high_school",17
+john_carlton_myatt_writing_scholarship__field_of_study,John Carlton Myatt Writing Scholarship,field:Field of Study,"Scholarship: John Carlton Myatt Writing Scholarship
+Provider: Guilford County Community Foundation
+Level: high_school
+Field: writing
+
+Field of Study: writing",19
+john_carlton_myatt_writing_scholarship__min_grade_gpa,John Carlton Myatt Writing Scholarship,field:Min Grade/GPA,"Scholarship: John Carlton Myatt Writing Scholarship
+Provider: Guilford County Community Foundation
+Level: high_school
+Field: writing
+
+Min Grade/GPA: Graduating high school seniors from Guilford County, North Carolina who display creative writing talent.",31
+john_carlton_myatt_writing_scholarship__deadline,John Carlton Myatt Writing Scholarship,field:Deadline,"Scholarship: John Carlton Myatt Writing Scholarship
+Provider: Guilford County Community Foundation
+Level: high_school
+Field: writing
+
+Deadline: N/A",17
+john_carlton_myatt_writing_scholarship__amount,John Carlton Myatt Writing Scholarship,field:Amount,"Scholarship: John Carlton Myatt Writing Scholarship
+Provider: Guilford County Community Foundation
+Level: high_school
+Field: writing
+
+Amount: TBC",17
+john_carlton_myatt_writing_scholarship__description,John Carlton Myatt Writing Scholarship,field:Description,"Scholarship: John Carlton Myatt Writing Scholarship
+Provider: Guilford County Community Foundation
+Level: high_school
+Field: writing
+
+A regional award supporting graduating seniors from a specific North Carolina county who show promise in creative writing.",33
+doodle_for_google_scholarship__summary,Doodle for Google Scholarship,summary,"Scholarship: Doodle for Google Scholarship
+A design competition that turns student artwork into Google's homepage logo while awarding scholarship funding to winners.
+Level: high_school
+Field: art_design",26
+doodle_for_google_scholarship__level,Doodle for Google Scholarship,field:Level,"Scholarship: Doodle for Google Scholarship
+Level: high_school
+Field: art_design
+
+Level: high_school",11
+doodle_for_google_scholarship__field_of_study,Doodle for Google Scholarship,field:Field of Study,"Scholarship: Doodle for Google Scholarship
+Level: high_school
+Field: art_design
+
+Field of Study: art_design",13
+doodle_for_google_scholarship__min_grade_gpa,Doodle for Google Scholarship,field:Min Grade/GPA,"Scholarship: Doodle for Google Scholarship
+Level: high_school
+Field: art_design
+
+Min Grade/GPA: Open to students with artistic ability; requires creating an original 'Doodle' design reflecting personal goals and creativity.",28
+doodle_for_google_scholarship__deadline,Doodle for Google Scholarship,field:Deadline,"Scholarship: Doodle for Google Scholarship
+Level: high_school
+Field: art_design
+
+Deadline: rolling",11
+doodle_for_google_scholarship__amount,Doodle for Google Scholarship,field:Amount,"Scholarship: Doodle for Google Scholarship
+Level: high_school
+Field: art_design
+
+Amount: N/A",11
+doodle_for_google_scholarship__description,Doodle for Google Scholarship,field:Description,"Scholarship: Doodle for Google Scholarship
+Level: high_school
+Field: art_design
+
+A design competition that turns student artwork into Google's homepage logo while awarding scholarship funding to winners.",26
+mandela_rhodes_scholarship__summary,Mandela Rhodes Scholarship,summary,"Scholarship: Mandela Rhodes Scholarship
+Supports African students with strong leadership qualities to complete an honours or Master's degree at a recognized South African university, alongside a leadership development program.
+Level: postgraduate
+Field: any",33
+mandela_rhodes_scholarship__level,Mandela Rhodes Scholarship,field:Level,"Scholarship: Mandela Rhodes Scholarship
+Level: postgraduate
+Field: any
+
+Level: postgraduate",10
+mandela_rhodes_scholarship__field_of_study,Mandela Rhodes Scholarship,field:Field of Study,"Scholarship: Mandela Rhodes Scholarship
+Level: postgraduate
+Field: any
+
+Field of Study: any",12
+mandela_rhodes_scholarship__country_region,Mandela Rhodes Scholarship,field:Country/Region,"Scholarship: Mandela Rhodes Scholarship
+Level: postgraduate
+Field: any
+
+Country/Region: African citizens",11
+mandela_rhodes_scholarship__need_based,Mandela Rhodes Scholarship,field:Need Based?,"Scholarship: Mandela Rhodes Scholarship
+Level: postgraduate
+Field: any
+
+Need Based?: no",11
+mandela_rhodes_scholarship__min_grade_gpa,Mandela Rhodes Scholarship,field:Min Grade/GPA,"Scholarship: Mandela Rhodes Scholarship
+Level: postgraduate
+Field: any
+
+Min Grade/GPA: Strong academic record combined with demonstrated leadership ability; selection emphasizes leadership potential as much as grades",26
+mandela_rhodes_scholarship__deadline,Mandela Rhodes Scholarship,field:Deadline,"Scholarship: Mandela Rhodes Scholarship
+Level: postgraduate
+Field: any
+
+Deadline: Varies by cycle (commonly around mid/June)",15
+mandela_rhodes_scholarship__description,Mandela Rhodes Scholarship,field:Description,"Scholarship: Mandela Rhodes Scholarship
+Level: postgraduate
+Field: any
+
+Supports African students with strong leadership qualities to complete an honours or Master's degree at a recognized South African university, alongside a leadership development program.",33
+mastercard_foundation_scholars_program_graduate_master_s_track__summary,Mastercard Foundation Scholars Program (Graduate/Master's track),summary,"Scholarship: Mastercard Foundation Scholars Program (Graduate/Master's track)
+Funds Master's-level study for African graduates, covering tuition, fees, and living costs, with mentoring and leadership development built into the program.
+Provider: Mastercard Foundation (via partner universities incl. Cambridge, Sciences Po, CMU-Africa)
+Level: postgraduate
+Field: any (includes engineering, information technology, and ai at partners like cmu-africa)",53
+mastercard_foundation_scholars_program_graduate_master_s_track__provider_sponsor,Mastercard Foundation Scholars Program (Graduate/Master's track),field:Provider/Sponsor,"Scholarship: Mastercard Foundation Scholars Program (Graduate/Master's track)
+Provider: Mastercard Foundation (via partner universities incl. Cambridge, Sciences Po, CMU-Africa)
+Level: postgraduate
+Field: any (includes engineering, information technology, and ai at partners like cmu-africa)
+
+Provider/Sponsor: Mastercard Foundation (via partner universities incl. Cambridge, Sciences Po, CMU-Africa)",43
+mastercard_foundation_scholars_program_graduate_master_s_track__level,Mastercard Foundation Scholars Program (Graduate/Master's track),field:Level,"Scholarship: Mastercard Foundation Scholars Program (Graduate/Master's track)
+Provider: Mastercard Foundation (via partner universities incl. Cambridge, Sciences Po, CMU-Africa)
+Level: postgraduate
+Field: any (includes engineering, information technology, and ai at partners like cmu-africa)
+
+Level: postgraduate",34
+mastercard_foundation_scholars_program_graduate_master_s_track__field_of_study,Mastercard Foundation Scholars Program (Graduate/Master's track),field:Field of Study,"Scholarship: Mastercard Foundation Scholars Program (Graduate/Master's track)
+Provider: Mastercard Foundation (via partner universities incl. Cambridge, Sciences Po, CMU-Africa)
+Level: postgraduate
+Field: any (includes engineering, information technology, and ai at partners like cmu-africa)
+
+Field of Study: any (includes engineering, information technology, and ai at partners like cmu-africa)",46
+mastercard_foundation_scholars_program_graduate_master_s_track__country_region,Mastercard Foundation Scholars Program (Graduate/Master's track),field:Country/Region,"Scholarship: Mastercard Foundation Scholars Program (Graduate/Master's track)
+Provider: Mastercard Foundation (via partner universities incl. Cambridge, Sciences Po, CMU-Africa)
+Level: postgraduate
+Field: any (includes engineering, information technology, and ai at partners like cmu-africa)
+
+Country/Region: African citizens; second citizenship from outside Africa is not eligible",43
+mastercard_foundation_scholars_program_graduate_master_s_track__need_based,Mastercard Foundation Scholars Program (Graduate/Master's track),field:Need Based?,"Scholarship: Mastercard Foundation Scholars Program (Graduate/Master's track)
+Provider: Mastercard Foundation (via partner universities incl. Cambridge, Sciences Po, CMU-Africa)
+Level: postgraduate
+Field: any (includes engineering, information technology, and ai at partners like cmu-africa)
+
+Need Based?: yes",35
+mastercard_foundation_scholars_program_graduate_master_s_track__min_grade_gpa,Mastercard Foundation Scholars Program (Graduate/Master's track),field:Min Grade/GPA,"Scholarship: Mastercard Foundation Scholars Program (Graduate/Master's track)
+Provider: Mastercard Foundation (via partner universities incl. Cambridge, Sciences Po, CMU-Africa)
+Level: postgraduate
+Field: any (includes engineering, information technology, and ai at partners like cmu-africa)
+
+Min Grade/GPA: Completed or nearly-completed Bachelor's degree with strong academic results; demonstrated financial need and commitment to impact in Africa",52
+mastercard_foundation_scholars_program_graduate_master_s_track__deadline,Mastercard Foundation Scholars Program (Graduate/Master's track),field:Deadline,"Scholarship: Mastercard Foundation Scholars Program (Graduate/Master's track)
+Provider: Mastercard Foundation (via partner universities incl. Cambridge, Sciences Po, CMU-Africa)
+Level: postgraduate
+Field: any (includes engineering, information technology, and ai at partners like cmu-africa)
+
+Deadline: TBD",34
+mastercard_foundation_scholars_program_graduate_master_s_track__description,Mastercard Foundation Scholars Program (Graduate/Master's track),field:Description,"Scholarship: Mastercard Foundation Scholars Program (Graduate/Master's track)
+Provider: Mastercard Foundation (via partner universities incl. Cambridge, Sciences Po, CMU-Africa)
+Level: postgraduate
+Field: any (includes engineering, information technology, and ai at partners like cmu-africa)
+
+Funds Master's-level study for African graduates, covering tuition, fees, and living costs, with mentoring and leadership development built into the program.",53
+mckelvey_foundation_entrepreneur_scholarship__summary,McKelvey Foundation Entrepreneur Scholarship,summary,"Scholarship: McKelvey Foundation Entrepreneur Scholarship
+Supports student entrepreneurs who have already taken the leap into starting a business, alongside access to a network of experienced founders.
+Provider: McKelvey Foundation
+Level: undergraduate
+Field: business",33
+mckelvey_foundation_entrepreneur_scholarship__provider_sponsor,McKelvey Foundation Entrepreneur Scholarship,field:Provider/Sponsor,"Scholarship: McKelvey Foundation Entrepreneur Scholarship
+Provider: McKelvey Foundation
+Level: undergraduate
+Field: business
+
+Provider/Sponsor: McKelvey Foundation",15
+mckelvey_foundation_entrepreneur_scholarship__level,McKelvey Foundation Entrepreneur Scholarship,field:Level,"Scholarship: McKelvey Foundation Entrepreneur Scholarship
+Provider: McKelvey Foundation
+Level: undergraduate
+Field: business
+
+Level: undergraduate",14
+mckelvey_foundation_entrepreneur_scholarship__field_of_study,McKelvey Foundation Entrepreneur Scholarship,field:Field of Study,"Scholarship: McKelvey Foundation Entrepreneur Scholarship
+Provider: McKelvey Foundation
+Level: undergraduate
+Field: business
+
+Field of Study: business",16
+mckelvey_foundation_entrepreneur_scholarship__min_grade_gpa,McKelvey Foundation Entrepreneur Scholarship,field:Min Grade/GPA,"Scholarship: McKelvey Foundation Entrepreneur Scholarship
+Provider: McKelvey Foundation
+Level: undergraduate
+Field: business
+
+Min Grade/GPA: Students who have already started their own businesses.",22
+mckelvey_foundation_entrepreneur_scholarship__deadline,McKelvey Foundation Entrepreneur Scholarship,field:Deadline,"Scholarship: McKelvey Foundation Entrepreneur Scholarship
+Provider: McKelvey Foundation
+Level: undergraduate
+Field: business
+
+Deadline: VARIES BY CYCLE",16
+mckelvey_foundation_entrepreneur_scholarship__description,McKelvey Foundation Entrepreneur Scholarship,field:Description,"Scholarship: McKelvey Foundation Entrepreneur Scholarship
+Provider: McKelvey Foundation
+Level: undergraduate
+Field: business
+
+Supports student entrepreneurs who have already taken the leap into starting a business, alongside access to a network of experienced founders.",33
+csun_art_design_department_scholarships__summary,CSUN Art & Design Department Scholarships,summary,"Scholarship: CSUN Art & Design Department Scholarships
+A set of departmental scholarships supporting art and design students across multiple studio concentrations.
+Provider: California State University, Northridge
+Level: undergraduate
+Field: art_design",30
+csun_art_design_department_scholarships__provider_sponsor,CSUN Art & Design Department Scholarships,field:Provider/Sponsor,"Scholarship: CSUN Art & Design Department Scholarships
+Provider: California State University, Northridge
+Level: undergraduate
+Field: art_design
+
+Provider/Sponsor: California State University, Northridge",21
+csun_art_design_department_scholarships__level,CSUN Art & Design Department Scholarships,field:Level,"Scholarship: CSUN Art & Design Department Scholarships
+Provider: California State University, Northridge
+Level: undergraduate
+Field: art_design
+
+Level: undergraduate",18
+csun_art_design_department_scholarships__field_of_study,CSUN Art & Design Department Scholarships,field:Field of Study,"Scholarship: CSUN Art & Design Department Scholarships
+Provider: California State University, Northridge
+Level: undergraduate
+Field: art_design
+
+Field of Study: art_design",20
+csun_art_design_department_scholarships__min_grade_gpa,CSUN Art & Design Department Scholarships,field:Min Grade/GPA,"Scholarship: CSUN Art & Design Department Scholarships
+Provider: California State University, Northridge
+Level: undergraduate
+Field: art_design
+
+Min Grade/GPA: Continuing full-time undergraduate or graduate students enrolled in the Department of Art and Design; several awards require a minimum 3.0 GPA and/or demonstrated financial need, with some preferences for specific concentrations like ceramics, photography, or animation.",54
+csun_art_design_department_scholarships__deadline,CSUN Art & Design Department Scholarships,field:Deadline,"Scholarship: CSUN Art & Design Department Scholarships
+Provider: California State University, Northridge
+Level: undergraduate
+Field: art_design
+
+Deadline: rolling",18
+csun_art_design_department_scholarships__description,CSUN Art & Design Department Scholarships,field:Description,"Scholarship: CSUN Art & Design Department Scholarships
+Provider: California State University, Northridge
+Level: undergraduate
+Field: art_design
+
+A set of departmental scholarships supporting art and design students across multiple studio concentrations.",30
+thea_scholarship__summary,THEA Scholarship,summary,"Scholarship: THEA Scholarship
+A talent-based award for students with artistic ability across visual art, dance, music, and other creative disciplines.
+Provider: THEA Foundation
+Level: high_school
+Field: art_design",27
+thea_scholarship__provider_sponsor,THEA Scholarship,field:Provider/Sponsor,"Scholarship: THEA Scholarship
+Provider: THEA Foundation
+Level: high_school
+Field: art_design
+
+Provider/Sponsor: THEA Foundation",13
+thea_scholarship__level,THEA Scholarship,field:Level,"Scholarship: THEA Scholarship
+Provider: THEA Foundation
+Level: high_school
+Field: art_design
+
+Level: high_school",12
+thea_scholarship__field_of_study,THEA Scholarship,field:Field of Study,"Scholarship: THEA Scholarship
+Provider: THEA Foundation
+Level: high_school
+Field: art_design
+
+Field of Study: art_design",14
+thea_scholarship__min_grade_gpa,THEA Scholarship,field:Min Grade/GPA,"Scholarship: THEA Scholarship
+Provider: THEA Foundation
+Level: high_school
+Field: art_design
+
+Min Grade/GPA: Awarded solely on artistic talent regardless of GPA, test scores, or intended college major; portable to any college the recipient attends.",33
+thea_scholarship__deadline,THEA Scholarship,field:Deadline,"Scholarship: THEA Scholarship
+Provider: THEA Foundation
+Level: high_school
+Field: art_design
+
+Deadline: Varies by cycle",14
+thea_scholarship__amount,THEA Scholarship,field:Amount,"Scholarship: THEA Scholarship
+Provider: THEA Foundation
+Level: high_school
+Field: art_design
+
+Amount: Varies",12
+thea_scholarship__description,THEA Scholarship,field:Description,"Scholarship: THEA Scholarship
+Provider: THEA Foundation
+Level: high_school
+Field: art_design
+
+A talent-based award for students with artistic ability across visual art, dance, music, and other creative disciplines.",27
+daad_doctoral_programmes_in_germany__summary,DAAD Doctoral Programmes in Germany,summary,"Scholarship: DAAD Doctoral Programmes in Germany
+Funds full doctoral study in Germany at no tuition cost, targeting academically strong candidates with high research potential across all disciplines.
+Provider: German Academic Exchange Service (DAAD)
+Level: phd
+Field: any research field, including engineering, at state-recognized german universities and research institutes",48
+daad_doctoral_programmes_in_germany__provider_sponsor,DAAD Doctoral Programmes in Germany,field:Provider/Sponsor,"Scholarship: DAAD Doctoral Programmes in Germany
+Provider: German Academic Exchange Service (DAAD)
+Level: phd
+Field: any research field, including engineering, at state-recognized german universities and research institutes
+
+Provider/Sponsor: German Academic Exchange Service (DAAD)",33
+daad_doctoral_programmes_in_germany__level,DAAD Doctoral Programmes in Germany,field:Level,"Scholarship: DAAD Doctoral Programmes in Germany
+Provider: German Academic Exchange Service (DAAD)
+Level: phd
+Field: any research field, including engineering, at state-recognized german universities and research institutes
+
+Level: phd",29
+daad_doctoral_programmes_in_germany__field_of_study,DAAD Doctoral Programmes in Germany,field:Field of Study,"Scholarship: DAAD Doctoral Programmes in Germany
+Provider: German Academic Exchange Service (DAAD)
+Level: phd
+Field: any research field, including engineering, at state-recognized german universities and research institutes
+
+Field of Study: any research field, including engineering, at state-recognized german universities and research institutes",42
+daad_doctoral_programmes_in_germany__country_region,DAAD Doctoral Programmes in Germany,field:Country/Region,"Scholarship: DAAD Doctoral Programmes in Germany
+Provider: German Academic Exchange Service (DAAD)
+Level: phd
+Field: any research field, including engineering, at state-recognized german universities and research institutes
+
+Country/Region: Open worldwide, including applicants from Kenya, Nigeria, Ghana, South Africa, and other African countries",42
+daad_doctoral_programmes_in_germany__need_based,DAAD Doctoral Programmes in Germany,field:Need Based?,"Scholarship: DAAD Doctoral Programmes in Germany
+Provider: German Academic Exchange Service (DAAD)
+Level: phd
+Field: any research field, including engineering, at state-recognized german universities and research institutes
+
+Need Based?: no",30
+daad_doctoral_programmes_in_germany__min_grade_gpa,DAAD Doctoral Programmes in Germany,field:Min Grade/GPA,"Scholarship: DAAD Doctoral Programmes in Germany
+Provider: German Academic Exchange Service (DAAD)
+Level: phd
+Field: any research field, including engineering, at state-recognized german universities and research institutes
+
+Min Grade/GPA: Must have completed a Master's (or equivalent) degree before the funding period begins, with strong research potential",46
+daad_doctoral_programmes_in_germany__deadline,DAAD Doctoral Programmes in Germany,field:Deadline,"Scholarship: DAAD Doctoral Programmes in Germany
+Provider: German Academic Exchange Service (DAAD)
+Level: phd
+Field: any research field, including engineering, at state-recognized german universities and research institutes
+
+Deadline: VARIES BY SPECIFIC DOCTORAL PROGRAM",33
+daad_doctoral_programmes_in_germany__description,DAAD Doctoral Programmes in Germany,field:Description,"Scholarship: DAAD Doctoral Programmes in Germany
+Provider: German Academic Exchange Service (DAAD)
+Level: phd
+Field: any research field, including engineering, at state-recognized german universities and research institutes
+
+Funds full doctoral study in Germany at no tuition cost, targeting academically strong candidates with high research potential across all disciplines.",48
+driven_at_heart_scholarship__summary,Driven at Heart Scholarship,summary,"Scholarship: Driven at Heart Scholarship
+Awards top finalists a VIP experience at the Wisconsin Athletic Hall of Fame Induction Ceremony alongside cash scholarships.
+Provider: Wisconsin Athletic Hall of Fame
+Level: high_school
+Field: athletics",33
+driven_at_heart_scholarship__provider_sponsor,Driven at Heart Scholarship,field:Provider/Sponsor,"Scholarship: Driven at Heart Scholarship
+Provider: Wisconsin Athletic Hall of Fame
+Level: high_school
+Field: athletics
+
+Provider/Sponsor: Wisconsin Athletic Hall of Fame",21
+driven_at_heart_scholarship__level,Driven at Heart Scholarship,field:Level,"Scholarship: Driven at Heart Scholarship
+Provider: Wisconsin Athletic Hall of Fame
+Level: high_school
+Field: athletics
+
+Level: high_school",17
+driven_at_heart_scholarship__field_of_study,Driven at Heart Scholarship,field:Field of Study,"Scholarship: Driven at Heart Scholarship
+Provider: Wisconsin Athletic Hall of Fame
+Level: high_school
+Field: athletics
+
+Field of Study: athletics",19
+driven_at_heart_scholarship__min_grade_gpa,Driven at Heart Scholarship,field:Min Grade/GPA,"Scholarship: Driven at Heart Scholarship
+Provider: Wisconsin Athletic Hall of Fame
+Level: high_school
+Field: athletics
+
+Min Grade/GPA: Wisconsin high school seniors who participated in a WIAA-sanctioned sport, with a minimum 3.5 GPA.",32
+driven_at_heart_scholarship__deadline,Driven at Heart Scholarship,field:Deadline,"Scholarship: Driven at Heart Scholarship
+Provider: Wisconsin Athletic Hall of Fame
+Level: high_school
+Field: athletics
+
+Deadline: February 28, 2026",19
+driven_at_heart_scholarship__amount,Driven at Heart Scholarship,field:Amount,"Scholarship: Driven at Heart Scholarship
+Provider: Wisconsin Athletic Hall of Fame
+Level: high_school
+Field: athletics
+
+Amount: $2,500 - $7,500",19
+driven_at_heart_scholarship__description,Driven at Heart Scholarship,field:Description,"Scholarship: Driven at Heart Scholarship
+Provider: Wisconsin Athletic Hall of Fame
+Level: high_school
+Field: athletics
+
+Awards top finalists a VIP experience at the Wisconsin Athletic Hall of Fame Induction Ceremony alongside cash scholarships.",33
+penguin_random_house_creative_writing_awards_with_we_need_diverse_books__summary,Penguin Random House Creative Writing Awards (with We Need Diverse Books),summary,"Scholarship: Penguin Random House Creative Writing Awards (with We Need Diverse Books)
+A long-running program recognizing outstanding creative writing from public high school seniors, paired with mentorship from professional editors.
+Provider: Penguin Random House / We Need Diverse Books
+Level: high_school
+Field: writing",43
+penguin_random_house_creative_writing_awards_with_we_need_diverse_books__provider_sponsor,Penguin Random House Creative Writing Awards (with We Need Diverse Books),field:Provider/Sponsor,"Scholarship: Penguin Random House Creative Writing Awards (with We Need Diverse Books)
+Provider: Penguin Random House / We Need Diverse Books
+Level: high_school
+Field: writing
+
+Provider/Sponsor: Penguin Random House / We Need Diverse Books",34
+penguin_random_house_creative_writing_awards_with_we_need_diverse_books__level,Penguin Random House Creative Writing Awards (with We Need Diverse Books),field:Level,"Scholarship: Penguin Random House Creative Writing Awards (with We Need Diverse Books)
+Provider: Penguin Random House / We Need Diverse Books
+Level: high_school
+Field: writing
+
+Level: high_school",27
+penguin_random_house_creative_writing_awards_with_we_need_diverse_books__field_of_study,Penguin Random House Creative Writing Awards (with We Need Diverse Books),field:Field of Study,"Scholarship: Penguin Random House Creative Writing Awards (with We Need Diverse Books)
+Provider: Penguin Random House / We Need Diverse Books
+Level: high_school
+Field: writing
+
+Field of Study: writing",29
+penguin_random_house_creative_writing_awards_with_we_need_diverse_books__min_grade_gpa,Penguin Random House Creative Writing Awards (with We Need Diverse Books),field:Min Grade/GPA,"Scholarship: Penguin Random House Creative Writing Awards (with We Need Diverse Books)
+Provider: Penguin Random House / We Need Diverse Books
+Level: high_school
+Field: writing
+
+Min Grade/GPA: Current public high school seniors in the US graduating in spring, planning to enroll in an accredited college that fall. Requires one original literary submission (poetry, spoken word, fiction, personal essay/memoir, or themed prompt).",61
+penguin_random_house_creative_writing_awards_with_we_need_diverse_books__deadline,Penguin Random House Creative Writing Awards (with We Need Diverse Books),field:Deadline,"Scholarship: Penguin Random House Creative Writing Awards (with We Need Diverse Books)
+Provider: Penguin Random House / We Need Diverse Books
+Level: high_school
+Field: writing
+
+Deadline: Varies by cycle",29
+penguin_random_house_creative_writing_awards_with_we_need_diverse_books__amount,Penguin Random House Creative Writing Awards (with We Need Diverse Books),field:Amount,"Scholarship: Penguin Random House Creative Writing Awards (with We Need Diverse Books)
+Provider: Penguin Random House / We Need Diverse Books
+Level: high_school
+Field: writing
+
+Amount: NULL",27
+penguin_random_house_creative_writing_awards_with_we_need_diverse_books__description,Penguin Random House Creative Writing Awards (with We Need Diverse Books),field:Description,"Scholarship: Penguin Random House Creative Writing Awards (with We Need Diverse Books)
+Provider: Penguin Random House / We Need Diverse Books
+Level: high_school
+Field: writing
+
+A long-running program recognizing outstanding creative writing from public high school seniors, paired with mentorship from professional editors.",43
+lockheed_martin_stem_scholarship__summary,Lockheed Martin STEM Scholarship,summary,"Scholarship: Lockheed Martin STEM Scholarship
+A STEM-focused scholarship aimed at broadening participation in technology careers among historically underrepresented groups.
+Level: high_school
+Field: computer_science",23
+lockheed_martin_stem_scholarship__level,Lockheed Martin STEM Scholarship,field:Level,"Scholarship: Lockheed Martin STEM Scholarship
+Level: high_school
+Field: computer_science
+
+Level: high_school",11
+lockheed_martin_stem_scholarship__field_of_study,Lockheed Martin STEM Scholarship,field:Field of Study,"Scholarship: Lockheed Martin STEM Scholarship
+Level: high_school
+Field: computer_science
+
+Field of Study: computer_science",13
+lockheed_martin_stem_scholarship__min_grade_gpa,Lockheed Martin STEM Scholarship,field:Min Grade/GPA,"Scholarship: Lockheed Martin STEM Scholarship
+Level: high_school
+Field: computer_science
+
+Min Grade/GPA: N/A",12
+lockheed_martin_stem_scholarship__deadline,Lockheed Martin STEM Scholarship,field:Deadline,"Scholarship: Lockheed Martin STEM Scholarship
+Level: high_school
+Field: computer_science
+
+Deadline: ROLLING",11
+lockheed_martin_stem_scholarship__amount,Lockheed Martin STEM Scholarship,field:Amount,"Scholarship: Lockheed Martin STEM Scholarship
+Level: high_school
+Field: computer_science
+
+Amount: Varies",11
+lockheed_martin_stem_scholarship__description,Lockheed Martin STEM Scholarship,field:Description,"Scholarship: Lockheed Martin STEM Scholarship
+Level: high_school
+Field: computer_science
+
+A STEM-focused scholarship aimed at broadening participation in technology careers among historically underrepresented groups.",23
+chinua_achebe_award_for_freedom_of_expression__summary,Chinua Achebe Award for Freedom of Expression,summary,"Scholarship: Chinua Achebe Award for Freedom of Expression
+A newer award honoring literary freedom of expression, inviting students to reflect on the impact of banned books through original writing.
+Provider: Penguin Random House
+Level: high_school
+Field: writing",37
+chinua_achebe_award_for_freedom_of_expression__provider_sponsor,Chinua Achebe Award for Freedom of Expression,field:Provider/Sponsor,"Scholarship: Chinua Achebe Award for Freedom of Expression
+Provider: Penguin Random House
+Level: high_school
+Field: writing
+
+Provider/Sponsor: Penguin Random House",20
+chinua_achebe_award_for_freedom_of_expression__level,Chinua Achebe Award for Freedom of Expression,field:Level,"Scholarship: Chinua Achebe Award for Freedom of Expression
+Provider: Penguin Random House
+Level: high_school
+Field: writing
+
+Level: high_school",18
+chinua_achebe_award_for_freedom_of_expression__field_of_study,Chinua Achebe Award for Freedom of Expression,field:Field of Study,"Scholarship: Chinua Achebe Award for Freedom of Expression
+Provider: Penguin Random House
+Level: high_school
+Field: writing
+
+Field of Study: writing",20
+chinua_achebe_award_for_freedom_of_expression__min_grade_gpa,Chinua Achebe Award for Freedom of Expression,field:Min Grade/GPA,"Scholarship: Chinua Achebe Award for Freedom of Expression
+Provider: Penguin Random House
+Level: high_school
+Field: writing
+
+Min Grade/GPA: Open to public high school students. Requires an original literary composition responding to a prompt about a banned book that impacted the applicant.",41
+chinua_achebe_award_for_freedom_of_expression__deadline,Chinua Achebe Award for Freedom of Expression,field:Deadline,"Scholarship: Chinua Achebe Award for Freedom of Expression
+Provider: Penguin Random House
+Level: high_school
+Field: writing
+
+Deadline: See website",19
+chinua_achebe_award_for_freedom_of_expression__amount,Chinua Achebe Award for Freedom of Expression,field:Amount,"Scholarship: Chinua Achebe Award for Freedom of Expression
+Provider: Penguin Random House
+Level: high_school
+Field: writing
+
+Amount: $10,000 (first place)",20
+chinua_achebe_award_for_freedom_of_expression__description,Chinua Achebe Award for Freedom of Expression,field:Description,"Scholarship: Chinua Achebe Award for Freedom of Expression
+Provider: Penguin Random House
+Level: high_school
+Field: writing
+
+A newer award honoring literary freedom of expression, inviting students to reflect on the impact of banned books through original writing.",37
+cavaliers_scholarship_program__summary,Cavaliers Scholarship Program,summary,"Scholarship: Cavaliers Scholarship Program
+A regional scholarship program from an NBA franchise supporting local graduating seniors.
+Level: high_school
+Field: athletics",20
+cavaliers_scholarship_program__level,Cavaliers Scholarship Program,field:Level,"Scholarship: Cavaliers Scholarship Program
+Level: high_school
+Field: athletics
+
+Level: high_school",10
+cavaliers_scholarship_program__field_of_study,Cavaliers Scholarship Program,field:Field of Study,"Scholarship: Cavaliers Scholarship Program
+Level: high_school
+Field: athletics
+
+Field of Study: athletics",12
+cavaliers_scholarship_program__min_grade_gpa,Cavaliers Scholarship Program,field:Min Grade/GPA,"Scholarship: Cavaliers Scholarship Program
+Level: high_school
+Field: athletics
+
+Min Grade/GPA: High school seniors residing in Northeast Ohio.",17
+cavaliers_scholarship_program__deadline,Cavaliers Scholarship Program,field:Deadline,"Scholarship: Cavaliers Scholarship Program
+Level: high_school
+Field: athletics
+
+Deadline: See website",11
+cavaliers_scholarship_program__amount,Cavaliers Scholarship Program,field:Amount,"Scholarship: Cavaliers Scholarship Program
+Level: high_school
+Field: athletics
+
+Amount: TBC",10
+cavaliers_scholarship_program__description,Cavaliers Scholarship Program,field:Description,"Scholarship: Cavaliers Scholarship Program
+Level: high_school
+Field: athletics
+
+A regional scholarship program from an NBA franchise supporting local graduating seniors.",20
+ncaa_postgraduate_scholarship__summary,NCAA Postgraduate Scholarship,summary,"Scholarship: NCAA Postgraduate Scholarship
+Recognizes graduating student-athletes for combined academic and athletic excellence, supporting their transition into graduate study.
+Provider: NCAA
+Level: postgraduate
+Field: athletics",25
+ncaa_postgraduate_scholarship__provider_sponsor,NCAA Postgraduate Scholarship,field:Provider/Sponsor,"Scholarship: NCAA Postgraduate Scholarship
+Provider: NCAA
+Level: postgraduate
+Field: athletics
+
+Provider/Sponsor: NCAA",12
+ncaa_postgraduate_scholarship__level,NCAA Postgraduate Scholarship,field:Level,"Scholarship: NCAA Postgraduate Scholarship
+Provider: NCAA
+Level: postgraduate
+Field: athletics
+
+Level: postgraduate",12
+ncaa_postgraduate_scholarship__field_of_study,NCAA Postgraduate Scholarship,field:Field of Study,"Scholarship: NCAA Postgraduate Scholarship
+Provider: NCAA
+Level: postgraduate
+Field: athletics
+
+Field of Study: athletics",14
+ncaa_postgraduate_scholarship__min_grade_gpa,NCAA Postgraduate Scholarship,field:Min Grade/GPA,"Scholarship: NCAA Postgraduate Scholarship
+Provider: NCAA
+Level: postgraduate
+Field: athletics
+
+Min Grade/GPA: Student-athletes across all three NCAA divisions who have completed their final season of athletic eligibility and demonstrate strong academics, athletic achievement, and leadership.",35
+ncaa_postgraduate_scholarship__deadline,NCAA Postgraduate Scholarship,field:Deadline,"Scholarship: NCAA Postgraduate Scholarship
+Provider: NCAA
+Level: postgraduate
+Field: athletics
+
+Deadline: AWARDED THREE TIMES ANNUALLY (FALL, WINTER, SPRING)",18
+ncaa_postgraduate_scholarship__amount,NCAA Postgraduate Scholarship,field:Amount,"Scholarship: NCAA Postgraduate Scholarship
+Provider: NCAA
+Level: postgraduate
+Field: athletics
+
+Amount: $10,000 (one-time, non-renewable)",14
+ncaa_postgraduate_scholarship__description,NCAA Postgraduate Scholarship,field:Description,"Scholarship: NCAA Postgraduate Scholarship
+Provider: NCAA
+Level: postgraduate
+Field: athletics
+
+Recognizes graduating student-athletes for combined academic and athletic excellence, supporting their transition into graduate study.",25
+mastercard_foundation_scholars_program_undergraduate_track__summary,Mastercard Foundation Scholars Program (Undergraduate track),summary,"Scholarship: Mastercard Foundation Scholars Program (Undergraduate track)
+A comprehensive scholarship covering tuition, accommodation, books, transport, and a living stipend for academically talented African students who could not otherwise afford university. Delivered through partner institutions such as Arizona State University, McGill, and African universities like KNUST.
+Provider: Mastercard Foundation (via 60+ partner universities)
+Level: undergraduate
+Field: any (varies by partner institution; engineering and business are common tracks, e.g. at knust, ashesi, cmu-africa)
+Funding: fully_funded",73
+mastercard_foundation_scholars_program_undergraduate_track__provider_sponsor,Mastercard Foundation Scholars Program (Undergraduate track),field:Provider/Sponsor,"Scholarship: Mastercard Foundation Scholars Program (Undergraduate track)
+Provider: Mastercard Foundation (via 60+ partner universities)
+Level: undergraduate
+Field: any (varies by partner institution; engineering and business are common tracks, e.g. at knust, ashesi, cmu-africa)
+Funding: fully_funded
+
+Provider/Sponsor: Mastercard Foundation (via 60+ partner universities)",42
+mastercard_foundation_scholars_program_undergraduate_track__level,Mastercard Foundation Scholars Program (Undergraduate track),field:Level,"Scholarship: Mastercard Foundation Scholars Program (Undergraduate track)
+Provider: Mastercard Foundation (via 60+ partner universities)
+Level: undergraduate
+Field: any (varies by partner institution; engineering and business are common tracks, e.g. at knust, ashesi, cmu-africa)
+Funding: fully_funded
+
+Level: undergraduate",37
+mastercard_foundation_scholars_program_undergraduate_track__field_of_study,Mastercard Foundation Scholars Program (Undergraduate track),field:Field of Study,"Scholarship: Mastercard Foundation Scholars Program (Undergraduate track)
+Provider: Mastercard Foundation (via 60+ partner universities)
+Level: undergraduate
+Field: any (varies by partner institution; engineering and business are common tracks, e.g. at knust, ashesi, cmu-africa)
+Funding: fully_funded
+
+Field of Study: any (varies by partner institution; engineering and business are common tracks, e.g. at knust, ashesi, cmu-africa)",54
+mastercard_foundation_scholars_program_undergraduate_track__country_region,Mastercard Foundation Scholars Program (Undergraduate track),field:Country/Region,"Scholarship: Mastercard Foundation Scholars Program (Undergraduate track)
+Provider: Mastercard Foundation (via 60+ partner universities)
+Level: undergraduate
+Field: any (varies by partner institution; engineering and business are common tracks, e.g. at knust, ashesi, cmu-africa)
+Funding: fully_funded
+
+Country/Region: African citizens (e.g. Cameroon, Ethiopia, Ghana, Kenya, Nigeria, Rwanda, Senegal, South Africa, Tanzania, Uganda, and more, depending on partner)",55
+mastercard_foundation_scholars_program_undergraduate_track__funding_type,Mastercard Foundation Scholars Program (Undergraduate track),field:Funding Type,"Scholarship: Mastercard Foundation Scholars Program (Undergraduate track)
+Provider: Mastercard Foundation (via 60+ partner universities)
+Level: undergraduate
+Field: any (varies by partner institution; engineering and business are common tracks, e.g. at knust, ashesi, cmu-africa)
+Funding: fully_funded
+
+Funding Type: fully_funded",38
+mastercard_foundation_scholars_program_undergraduate_track__need_based,Mastercard Foundation Scholars Program (Undergraduate track),field:Need Based?,"Scholarship: Mastercard Foundation Scholars Program (Undergraduate track)
+Provider: Mastercard Foundation (via 60+ partner universities)
+Level: undergraduate
+Field: any (varies by partner institution; engineering and business are common tracks, e.g. at knust, ashesi, cmu-africa)
+Funding: fully_funded
+
+Need Based?: yes",38
+mastercard_foundation_scholars_program_undergraduate_track__min_grade_gpa,Mastercard Foundation Scholars Program (Undergraduate track),field:Min Grade/GPA,"Scholarship: Mastercard Foundation Scholars Program (Undergraduate track)
+Provider: Mastercard Foundation (via 60+ partner universities)
+Level: undergraduate
+Field: any (varies by partner institution; engineering and business are common tracks, e.g. at knust, ashesi, cmu-africa)
+Funding: fully_funded
+
+Min Grade/GPA: Strong secondary school results; must be economically disadvantaged and demonstrate leadership potential; applicants must be 28 or younger (32 for refugees or persons with disabilities)",62
+mastercard_foundation_scholars_program_undergraduate_track__deadline,Mastercard Foundation Scholars Program (Undergraduate track),field:Deadline,"Scholarship: Mastercard Foundation Scholars Program (Undergraduate track)
+Provider: Mastercard Foundation (via 60+ partner universities)
+Level: undergraduate
+Field: any (varies by partner institution; engineering and business are common tracks, e.g. at knust, ashesi, cmu-africa)
+Funding: fully_funded
+
+Deadline: Set individually by each partner university (commonly Nov-Jan window)",45
+mastercard_foundation_scholars_program_undergraduate_track__description,Mastercard Foundation Scholars Program (Undergraduate track),field:Description,"Scholarship: Mastercard Foundation Scholars Program (Undergraduate track)
+Provider: Mastercard Foundation (via 60+ partner universities)
+Level: undergraduate
+Field: any (varies by partner institution; engineering and business are common tracks, e.g. at knust, ashesi, cmu-africa)
+Funding: fully_funded
+
+A comprehensive scholarship covering tuition, accommodation, books, transport, and a living stipend for academically talented African students who could not otherwise afford university. Delivered through partner institutions such as Arizona State University, McGill, and African universities like KNUST.",73
+launchcode_foundations_software_development_programs__summary,LaunchCode Foundations / Software Development Programs,summary,"Scholarship: LaunchCode Foundations / Software Development Programs
+A tuition-free technical training pathway combining coding fundamentals, mentorship, and career support for students pivoting into software development.
+Provider: LaunchCode
+Level: adult_learner
+Field: computer_science",31
+launchcode_foundations_software_development_programs__provider_sponsor,LaunchCode Foundations / Software Development Programs,field:Provider/Sponsor,"Scholarship: LaunchCode Foundations / Software Development Programs
+Provider: LaunchCode
+Level: adult_learner
+Field: computer_science
+
+Provider/Sponsor: LaunchCode",15
+launchcode_foundations_software_development_programs__level,LaunchCode Foundations / Software Development Programs,field:Level,"Scholarship: LaunchCode Foundations / Software Development Programs
+Provider: LaunchCode
+Level: adult_learner
+Field: computer_science
+
+Level: adult_learner",15
+launchcode_foundations_software_development_programs__field_of_study,LaunchCode Foundations / Software Development Programs,field:Field of Study,"Scholarship: LaunchCode Foundations / Software Development Programs
+Provider: LaunchCode
+Level: adult_learner
+Field: computer_science
+
+Field of Study: computer_science",17
+launchcode_foundations_software_development_programs__min_grade_gpa,LaunchCode Foundations / Software Development Programs,field:Min Grade/GPA,"Scholarship: LaunchCode Foundations / Software Development Programs
+Provider: LaunchCode
+Level: adult_learner
+Field: computer_science
+
+Min Grade/GPA: Open to beginners with no prior coding background; no degree requirement.",26
+launchcode_foundations_software_development_programs__deadline,LaunchCode Foundations / Software Development Programs,field:Deadline,"Scholarship: LaunchCode Foundations / Software Development Programs
+Provider: LaunchCode
+Level: adult_learner
+Field: computer_science
+
+Deadline: Rolling admissions (some cohorts have fixed dates such as June 10, 2026 and August 5, 2026)",30
+launchcode_foundations_software_development_programs__description,LaunchCode Foundations / Software Development Programs,field:Description,"Scholarship: LaunchCode Foundations / Software Development Programs
+Provider: LaunchCode
+Level: adult_learner
+Field: computer_science
+
+A tuition-free technical training pathway combining coding fundamentals, mentorship, and career support for students pivoting into software development.",31
+blue_ocean_student_entrepreneur_competition__summary,BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION,summary,"Scholarship: BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION
+A campus-backed pitch competition rewarding students who develop and present real business ventures.
+Provider: North Carolina State University
+Level: undergraduate
+Field: business",28
+blue_ocean_student_entrepreneur_competition__provider_sponsor,BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION,field:Provider/Sponsor,"Scholarship: BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION
+Provider: North Carolina State University
+Level: undergraduate
+Field: business
+
+Provider/Sponsor: North Carolina State University",20
+blue_ocean_student_entrepreneur_competition__level,BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION,field:Level,"Scholarship: BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION
+Provider: North Carolina State University
+Level: undergraduate
+Field: business
+
+Level: undergraduate",17
+blue_ocean_student_entrepreneur_competition__field_of_study,BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION,field:Field of Study,"Scholarship: BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION
+Provider: North Carolina State University
+Level: undergraduate
+Field: business
+
+Field of Study: business",19
+blue_ocean_student_entrepreneur_competition__min_grade_gpa,BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION,field:Min Grade/GPA,"Scholarship: BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION
+Provider: North Carolina State University
+Level: undergraduate
+Field: business
+
+Min Grade/GPA: Student teams developing new or existing business ventures.",25
+blue_ocean_student_entrepreneur_competition__deadline,BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION,field:Deadline,"Scholarship: BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION
+Provider: North Carolina State University
+Level: undergraduate
+Field: business
+
+Deadline: FEBRUARY 18, 2026",19
+blue_ocean_student_entrepreneur_competition__amount,BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION,field:Amount,"Scholarship: BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION
+Provider: North Carolina State University
+Level: undergraduate
+Field: business
+
+Amount: NULL",17
+blue_ocean_student_entrepreneur_competition__description,BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION,field:Description,"Scholarship: BLUE OCEAN STUDENT ENTREPRENEUR COMPETITION
+Provider: North Carolina State University
+Level: undergraduate
+Field: business
+
+A campus-backed pitch competition rewarding students who develop and present real business ventures.",28
+nshss_student_athlete_scholarship__summary,NSHSS STUDENT ATHLETE SCHOLARSHIP,summary,"Scholarship: NSHSS STUDENT ATHLETE SCHOLARSHIP
+Recognizes dedicated student-athletes who are active members of the National Society of High School Scholars.
+Provider: National Society of High School Scholars (NSHSS)
+Level: high_school
+Field: athletics",32
+nshss_student_athlete_scholarship__provider_sponsor,NSHSS STUDENT ATHLETE SCHOLARSHIP,field:Provider/Sponsor,"Scholarship: NSHSS STUDENT ATHLETE SCHOLARSHIP
+Provider: National Society of High School Scholars (NSHSS)
+Level: high_school
+Field: athletics
+
+Provider/Sponsor: National Society of High School Scholars (NSHSS)",25
+nshss_student_athlete_scholarship__level,NSHSS STUDENT ATHLETE SCHOLARSHIP,field:Level,"Scholarship: NSHSS STUDENT ATHLETE SCHOLARSHIP
+Provider: National Society of High School Scholars (NSHSS)
+Level: high_school
+Field: athletics
+
+Level: high_school",19
+nshss_student_athlete_scholarship__field_of_study,NSHSS STUDENT ATHLETE SCHOLARSHIP,field:Field of Study,"Scholarship: NSHSS STUDENT ATHLETE SCHOLARSHIP
+Provider: National Society of High School Scholars (NSHSS)
+Level: high_school
+Field: athletics
+
+Field of Study: athletics",21
+nshss_student_athlete_scholarship__deadline,NSHSS STUDENT ATHLETE SCHOLARSHIP,field:Deadline,"Scholarship: NSHSS STUDENT ATHLETE SCHOLARSHIP
+Provider: National Society of High School Scholars (NSHSS)
+Level: high_school
+Field: athletics
+
+Deadline: Varies by cycle",21
+nshss_student_athlete_scholarship__amount,NSHSS STUDENT ATHLETE SCHOLARSHIP,field:Amount,"Scholarship: NSHSS STUDENT ATHLETE SCHOLARSHIP
+Provider: National Society of High School Scholars (NSHSS)
+Level: high_school
+Field: athletics
+
+Amount: N/A",19
+nshss_student_athlete_scholarship__description,NSHSS STUDENT ATHLETE SCHOLARSHIP,field:Description,"Scholarship: NSHSS STUDENT ATHLETE SCHOLARSHIP
+Provider: National Society of High School Scholars (NSHSS)
+Level: high_school
+Field: athletics
+
+Recognizes dedicated student-athletes who are active members of the National Society of High School Scholars.",32
+women_techmakers_scholars_program__summary,Women Techmakers Scholars Program,summary,"Scholarship: Women Techmakers Scholars Program
+Supports women pursuing computer science, computer engineering, or related technical degrees across Africa, Europe, and the Middle East, alongside community-building and mentorship opportunities.
+Provider: Google
+Level: undergraduate
+Field: computer science, computer engineering, or closely related technical fields
+Funding: partial",44
+women_techmakers_scholars_program__provider_sponsor,Women Techmakers Scholars Program,field:Provider/Sponsor,"Scholarship: Women Techmakers Scholars Program
+Provider: Google
+Level: undergraduate
+Field: computer science, computer engineering, or closely related technical fields
+Funding: partial
+
+Provider/Sponsor: Google",23
+women_techmakers_scholars_program__level,Women Techmakers Scholars Program,field:Level,"Scholarship: Women Techmakers Scholars Program
+Provider: Google
+Level: undergraduate
+Field: computer science, computer engineering, or closely related technical fields
+Funding: partial
+
+Level: undergraduate",23
+women_techmakers_scholars_program__field_of_study,Women Techmakers Scholars Program,field:Field of Study,"Scholarship: Women Techmakers Scholars Program
+Provider: Google
+Level: undergraduate
+Field: computer science, computer engineering, or closely related technical fields
+Funding: partial
+
+Field of Study: computer science, computer engineering, or closely related technical fields",33
+women_techmakers_scholars_program__country_region,Women Techmakers Scholars Program,field:Country/Region,"Scholarship: Women Techmakers Scholars Program
+Provider: Google
+Level: undergraduate
+Field: computer science, computer engineering, or closely related technical fields
+Funding: partial
+
+Country/Region: Africa, Europe, and the Middle East",28
+women_techmakers_scholars_program__funding_type,Women Techmakers Scholars Program,field:Funding Type,"Scholarship: Women Techmakers Scholars Program
+Provider: Google
+Level: undergraduate
+Field: computer science, computer engineering, or closely related technical fields
+Funding: partial
+
+Funding Type: partial",24
+women_techmakers_scholars_program__need_based,Women Techmakers Scholars Program,field:Need Based?,"Scholarship: Women Techmakers Scholars Program
+Provider: Google
+Level: undergraduate
+Field: computer science, computer engineering, or closely related technical fields
+Funding: partial
+
+Need Based?: no",24
+women_techmakers_scholars_program__min_grade_gpa,Women Techmakers Scholars Program,field:Min Grade/GPA,"Scholarship: Women Techmakers Scholars Program
+Provider: Google
+Level: undergraduate
+Field: computer science, computer engineering, or closely related technical fields
+Funding: partial
+
+Min Grade/GPA: Demonstrated passion for and involvement in computer science/technology; open at any study level within undergraduate and graduate study",41
+women_techmakers_scholars_program__deadline,Women Techmakers Scholars Program,field:Deadline,"Scholarship: Women Techmakers Scholars Program
+Provider: Google
+Level: undergraduate
+Field: computer science, computer engineering, or closely related technical fields
+Funding: partial
+
+Deadline: Varies by cycle",25
+women_techmakers_scholars_program__description,Women Techmakers Scholars Program,field:Description,"Scholarship: Women Techmakers Scholars Program
+Provider: Google
+Level: undergraduate
+Field: computer science, computer engineering, or closely related technical fields
+Funding: partial
+
+Supports women pursuing computer science, computer engineering, or related technical degrees across Africa, Europe, and the Middle East, alongside community-building and mentorship opportunities.",44
+blacks_microsoft_bam_scholarship__summary,Blacks@Microsoft (BAM) Scholarship,summary,"Scholarship: Blacks@Microsoft (BAM) Scholarship
+A need-based award program offering four $20,000, eight $10,000, and fifteen $1,000 scholarships annually to Black students entering tech-related fields.
+Provider: Microsoft
+Field: computer_science",28
+blacks_microsoft_bam_scholarship__provider_sponsor,Blacks@Microsoft (BAM) Scholarship,field:Provider/Sponsor,"Scholarship: Blacks@Microsoft (BAM) Scholarship
+Provider: Microsoft
+Field: computer_science
+
+Provider/Sponsor: Microsoft",10
+blacks_microsoft_bam_scholarship__field_of_study,Blacks@Microsoft (BAM) Scholarship,field:Field of Study,"Scholarship: Blacks@Microsoft (BAM) Scholarship
+Provider: Microsoft
+Field: computer_science
+
+Field of Study: computer_science",12
+blacks_microsoft_bam_scholarship__min_grade_gpa,Blacks@Microsoft (BAM) Scholarship,field:Min Grade/GPA,"Scholarship: Blacks@Microsoft (BAM) Scholarship
+Provider: Microsoft
+Field: computer_science
+
+Min Grade/GPA: Black high school students planning to major in engineering, computer science, or business. Minimum 3.3 GPA and demonstrated financial hardship required. Requires resume, transcript, and letters of recommendation.",38
+blacks_microsoft_bam_scholarship__deadline,Blacks@Microsoft (BAM) Scholarship,field:Deadline,"Scholarship: Blacks@Microsoft (BAM) Scholarship
+Provider: Microsoft
+Field: computer_science
+
+Deadline: Varies by cycle",12
+blacks_microsoft_bam_scholarship__amount,Blacks@Microsoft (BAM) Scholarship,field:Amount,"Scholarship: Blacks@Microsoft (BAM) Scholarship
+Provider: Microsoft
+Field: computer_science
+
+Amount: $1,000 - $20,000 (multiple award tiers)",15
+blacks_microsoft_bam_scholarship__description,Blacks@Microsoft (BAM) Scholarship,field:Description,"Scholarship: Blacks@Microsoft (BAM) Scholarship
+Provider: Microsoft
+Field: computer_science
+
+A need-based award program offering four $20,000, eight $10,000, and fifteen $1,000 scholarships annually to Black students entering tech-related fields.",28
+chevening_scholarship__summary,Chevening Scholarship,summary,"Scholarship: Chevening Scholarship
+A prestigious UK government scholarship covering full tuition, a monthly living stipend, and travel for a one-year Master's degree. Selection is based on leadership potential, networking ability, and a clear plan for impact, not primarily financial need.
+Provider: UK Foreign, Commonwealth and Development Office (FCDO)
+Level: postgraduate
+Field: any (one-year taught master's degree at any uk university)
+Funding: fully_funded",62
+chevening_scholarship__provider_sponsor,Chevening Scholarship,field:Provider/Sponsor,"Scholarship: Chevening Scholarship
+Provider: UK Foreign, Commonwealth and Development Office (FCDO)
+Level: postgraduate
+Field: any (one-year taught master's degree at any uk university)
+Funding: fully_funded
+
+Provider/Sponsor: UK Foreign, Commonwealth and Development Office (FCDO)",33
+chevening_scholarship__level,Chevening Scholarship,field:Level,"Scholarship: Chevening Scholarship
+Provider: UK Foreign, Commonwealth and Development Office (FCDO)
+Level: postgraduate
+Field: any (one-year taught master's degree at any uk university)
+Funding: fully_funded
+
+Level: postgraduate",27
+chevening_scholarship__field_of_study,Chevening Scholarship,field:Field of Study,"Scholarship: Chevening Scholarship
+Provider: UK Foreign, Commonwealth and Development Office (FCDO)
+Level: postgraduate
+Field: any (one-year taught master's degree at any uk university)
+Funding: fully_funded
+
+Field of Study: any (one-year taught master's degree at any uk university)",37
+chevening_scholarship__funding_type,Chevening Scholarship,field:Funding Type,"Scholarship: Chevening Scholarship
+Provider: UK Foreign, Commonwealth and Development Office (FCDO)
+Level: postgraduate
+Field: any (one-year taught master's degree at any uk university)
+Funding: fully_funded
+
+Funding Type: fully_funded",28
+chevening_scholarship__need_based,Chevening Scholarship,field:Need Based?,"Scholarship: Chevening Scholarship
+Provider: UK Foreign, Commonwealth and Development Office (FCDO)
+Level: postgraduate
+Field: any (one-year taught master's degree at any uk university)
+Funding: fully_funded
+
+Need Based?: no",28
+chevening_scholarship__min_grade_gpa,Chevening Scholarship,field:Min Grade/GPA,"Scholarship: Chevening Scholarship
+Provider: UK Foreign, Commonwealth and Development Office (FCDO)
+Level: postgraduate
+Field: any (one-year taught master's degree at any uk university)
+Funding: fully_funded
+
+Min Grade/GPA: Completed undergraduate degree qualifying for UK Master's entry (roughly equivalent to a 2:1 honours degree); no formal minimum GPA, but strong academics help; requires at least 2,800 hours (~2 years) of work experience after graduation",62
+chevening_scholarship__deadline,Chevening Scholarship,field:Deadline,"Scholarship: Chevening Scholarship
+Provider: UK Foreign, Commonwealth and Development Office (FCDO)
+Level: postgraduate
+Field: any (one-year taught master's degree at any uk university)
+Funding: fully_funded
+
+Deadline: OPENS AUGUST, CLOSES EARLY OCTOBER EACH YEAR (E.G. OCTOBER 7)",36
+chevening_scholarship__description,Chevening Scholarship,field:Description,"Scholarship: Chevening Scholarship
+Provider: UK Foreign, Commonwealth and Development Office (FCDO)
+Level: postgraduate
+Field: any (one-year taught master's degree at any uk university)
+Funding: fully_funded
+
+A prestigious UK government scholarship covering full tuition, a monthly living stipend, and travel for a one-year Master's degree. Selection is based on leadership potential, networking ability, and a clear plan for impact, not primarily financial need.",62
+generation_google_scholarship__summary,Generation Google Scholarship,summary,"Scholarship: Generation Google Scholarship
+An essay-based award for academically strong students whose financial situation could otherwise limit their ability to pursue a computer science degree.
+Provider: Google
+Level: undergraduate
+Field: computer_science",31
+generation_google_scholarship__provider_sponsor,Generation Google Scholarship,field:Provider/Sponsor,"Scholarship: Generation Google Scholarship
+Provider: Google
+Level: undergraduate
+Field: computer_science
+
+Provider/Sponsor: Google",12
+generation_google_scholarship__level,Generation Google Scholarship,field:Level,"Scholarship: Generation Google Scholarship
+Provider: Google
+Level: undergraduate
+Field: computer_science
+
+Level: undergraduate",12
+generation_google_scholarship__field_of_study,Generation Google Scholarship,field:Field of Study,"Scholarship: Generation Google Scholarship
+Provider: Google
+Level: undergraduate
+Field: computer_science
+
+Field of Study: computer_science",14
+generation_google_scholarship__country_region,Generation Google Scholarship,field:Country/Region,"Scholarship: Generation Google Scholarship
+Provider: Google
+Level: undergraduate
+Field: computer_science
+
+Country/Region: TBC",12
+generation_google_scholarship__min_grade_gpa,Generation Google Scholarship,field:Min Grade/GPA,"Scholarship: Generation Google Scholarship
+Provider: Google
+Level: undergraduate
+Field: computer_science
+
+Min Grade/GPA: Applicant must already be accepted into a bachelor's degree program in computer science or a related field, and must show financial need. Open to all students, with special encouragement for those from underrepresented backgrounds.",46
+generation_google_scholarship__deadline,Generation Google Scholarship,field:Deadline,"Scholarship: Generation Google Scholarship
+Provider: Google
+Level: undergraduate
+Field: computer_science
+
+Deadline: VARIES BY CYCLE",14
+generation_google_scholarship__amount,Generation Google Scholarship,field:Amount,"Scholarship: Generation Google Scholarship
+Provider: Google
+Level: undergraduate
+Field: computer_science
+
+Amount: $10,000 (US) / $5,000 (Canada)",16
+generation_google_scholarship__description,Generation Google Scholarship,field:Description,"Scholarship: Generation Google Scholarship
+Provider: Google
+Level: undergraduate
+Field: computer_science
+
+An essay-based award for academically strong students whose financial situation could otherwise limit their ability to pursue a computer science degree.",31
+uncf_stem_scholarship__summary,UNCF STEM Scholarship,summary,"Scholarship: UNCF STEM Scholarship
+Supports Black students pursuing STEM degrees, filling the remaining funding gap after other aid is applied.
+Provider: United Negro College Fund (UNCF)
+Level: high_school
+Field: computer_science",30
+uncf_stem_scholarship__provider_sponsor,UNCF STEM Scholarship,field:Provider/Sponsor,"Scholarship: UNCF STEM Scholarship
+Provider: United Negro College Fund (UNCF)
+Level: high_school
+Field: computer_science
+
+Provider/Sponsor: United Negro College Fund (UNCF)",20
+uncf_stem_scholarship__level,UNCF STEM Scholarship,field:Level,"Scholarship: UNCF STEM Scholarship
+Provider: United Negro College Fund (UNCF)
+Level: high_school
+Field: computer_science
+
+Level: high_school",16
+uncf_stem_scholarship__field_of_study,UNCF STEM Scholarship,field:Field of Study,"Scholarship: UNCF STEM Scholarship
+Provider: United Negro College Fund (UNCF)
+Level: high_school
+Field: computer_science
+
+Field of Study: computer_science",18
+uncf_stem_scholarship__min_grade_gpa,UNCF STEM Scholarship,field:Min Grade/GPA,"Scholarship: UNCF STEM Scholarship
+Provider: United Negro College Fund (UNCF)
+Level: high_school
+Field: computer_science
+
+Min Grade/GPA: Minimum 3.0 GPA. Award amount is calculated based on family contribution and other financial aid already received (a 'last-dollar' model).",36
+uncf_stem_scholarship__description,UNCF STEM Scholarship,field:Description,"Scholarship: UNCF STEM Scholarship
+Provider: United Negro College Fund (UNCF)
+Level: high_school
+Field: computer_science
+
+Supports Black students pursuing STEM degrees, filling the remaining funding gap after other aid is applied.",30
+daad_leadership_for_africa_master_s_in_germany__summary,DAAD Leadership for Africa (Master's in Germany),summary,"Scholarship: DAAD Leadership for Africa (Master's in Germany)
+Supports highly qualified graduates and refugees from a small set of African countries to pursue a tuition-free Master's degree in Germany, with tailored info sessions to guide the application process.
+Provider: German Academic Exchange Service (DAAD)
+Level: master's degree
+Field: most fields including engineering and architecture (subject-specific scholarship tracks apply); a full master's degree in medicine is not eligible
+Funding: fully_funded",69
+daad_leadership_for_africa_master_s_in_germany__provider_sponsor,DAAD Leadership for Africa (Master's in Germany),field:Provider/Sponsor,"Scholarship: DAAD Leadership for Africa (Master's in Germany)
+Provider: German Academic Exchange Service (DAAD)
+Level: master's degree
+Field: most fields including engineering and architecture (subject-specific scholarship tracks apply); a full master's degree in medicine is not eligible
+Funding: fully_funded
+
+Provider/Sponsor: German Academic Exchange Service (DAAD)",45
+daad_leadership_for_africa_master_s_in_germany__level,DAAD Leadership for Africa (Master's in Germany),field:Level,"Scholarship: DAAD Leadership for Africa (Master's in Germany)
+Provider: German Academic Exchange Service (DAAD)
+Level: master's degree
+Field: most fields including engineering and architecture (subject-specific scholarship tracks apply); a full master's degree in medicine is not eligible
+Funding: fully_funded
+
+Level: master's degree",42
+daad_leadership_for_africa_master_s_in_germany__field_of_study,DAAD Leadership for Africa (Master's in Germany),field:Field of Study,"Scholarship: DAAD Leadership for Africa (Master's in Germany)
+Provider: German Academic Exchange Service (DAAD)
+Level: master's degree
+Field: most fields including engineering and architecture (subject-specific scholarship tracks apply); a full master's degree in medicine is not eligible
+Funding: fully_funded
+
+Field of Study: most fields including engineering and architecture (subject-specific scholarship tracks apply); a full master's degree in medicine is not eligible",61
+daad_leadership_for_africa_master_s_in_germany__country_region,DAAD Leadership for Africa (Master's in Germany),field:Country/Region,"Scholarship: DAAD Leadership for Africa (Master's in Germany)
+Provider: German Academic Exchange Service (DAAD)
+Level: master's degree
+Field: most fields including engineering and architecture (subject-specific scholarship tracks apply); a full master's degree in medicine is not eligible
+Funding: fully_funded
+
+Country/Region: Currently open to citizens (and eligible refugees) of Cameroon, Senegal, Togo, South Sudan, and Uganda",55
+daad_leadership_for_africa_master_s_in_germany__funding_type,DAAD Leadership for Africa (Master's in Germany),field:Funding Type,"Scholarship: DAAD Leadership for Africa (Master's in Germany)
+Provider: German Academic Exchange Service (DAAD)
+Level: master's degree
+Field: most fields including engineering and architecture (subject-specific scholarship tracks apply); a full master's degree in medicine is not eligible
+Funding: fully_funded
+
+Funding Type: fully_funded",42
+daad_leadership_for_africa_master_s_in_germany__min_grade_gpa,DAAD Leadership for Africa (Master's in Germany),field:Min Grade/GPA,"Scholarship: DAAD Leadership for Africa (Master's in Germany)
+Provider: German Academic Exchange Service (DAAD)
+Level: master's degree
+Field: most fields including engineering and architecture (subject-specific scholarship tracks apply); a full master's degree in medicine is not eligible
+Funding: fully_funded
+
+Min Grade/GPA: Holds a Bachelor's degree qualifying for admission to a German Master's program",53
+daad_leadership_for_africa_master_s_in_germany__deadline,DAAD Leadership for Africa (Master's in Germany),field:Deadline,"Scholarship: DAAD Leadership for Africa (Master's in Germany)
+Provider: German Academic Exchange Service (DAAD)
+Level: master's degree
+Field: most fields including engineering and architecture (subject-specific scholarship tracks apply); a full master's degree in medicine is not eligible
+Funding: fully_funded
+
+Deadline: APPLICATION WINDOWS VARY BY COUNTRY (E.G. APRIL-JUNE FOR SOME TRACKS)",50
+daad_leadership_for_africa_master_s_in_germany__description,DAAD Leadership for Africa (Master's in Germany),field:Description,"Scholarship: DAAD Leadership for Africa (Master's in Germany)
+Provider: German Academic Exchange Service (DAAD)
+Level: master's degree
+Field: most fields including engineering and architecture (subject-specific scholarship tracks apply); a full master's degree in medicine is not eligible
+Funding: fully_funded
+
+Supports highly qualified graduates and refugees from a small set of African countries to pursue a tuition-free Master's degree in Germany, with tailored info sessions to guide the application process.",69
+beit_trust_scholarships__summary,Beit Trust Scholarships,summary,"Scholarship: Beit Trust Scholarships
+Provides Master's and PhD funding for students from Malawi, Zambia, or Zimbabwe to study at leading universities in the UK, Ireland, or South Africa.
+Provider: The Beit Trust
+Field: any
+Funding: fully_funded",36
+beit_trust_scholarships__provider_sponsor,Beit Trust Scholarships,field:Provider/Sponsor,"Scholarship: Beit Trust Scholarships
+Provider: The Beit Trust
+Field: any
+Funding: fully_funded
+
+Provider/Sponsor: The Beit Trust",16
+beit_trust_scholarships__field_of_study,Beit Trust Scholarships,field:Field of Study,"Scholarship: Beit Trust Scholarships
+Provider: The Beit Trust
+Field: any
+Funding: fully_funded
+
+Field of Study: any",16
+beit_trust_scholarships__country_region,Beit Trust Scholarships,field:Country/Region,"Scholarship: Beit Trust Scholarships
+Provider: The Beit Trust
+Field: any
+Funding: fully_funded
+
+Country/Region: Malawi, Zambia, and Zimbabwe",17
+beit_trust_scholarships__funding_type,Beit Trust Scholarships,field:Funding Type,"Scholarship: Beit Trust Scholarships
+Provider: The Beit Trust
+Field: any
+Funding: fully_funded
+
+Funding Type: fully_funded",15
+beit_trust_scholarships__need_based,Beit Trust Scholarships,field:Need Based?,"Scholarship: Beit Trust Scholarships
+Provider: The Beit Trust
+Field: any
+Funding: fully_funded
+
+Need Based?: yes",15
+beit_trust_scholarships__min_grade_gpa,Beit Trust Scholarships,field:Min Grade/GPA,"Scholarship: Beit Trust Scholarships
+Provider: The Beit Trust
+Field: any
+Funding: fully_funded
+
+Min Grade/GPA: Strong undergraduate academic record",18
+beit_trust_scholarships__deadline,Beit Trust Scholarships,field:Deadline,"Scholarship: Beit Trust Scholarships
+Provider: The Beit Trust
+Field: any
+Funding: fully_funded
+
+Deadline: Varies by cycle",16
+beit_trust_scholarships__amount,Beit Trust Scholarships,field:Amount,"Scholarship: Beit Trust Scholarships
+Provider: The Beit Trust
+Field: any
+Funding: fully_funded
+
+Amount: NULL",14
+beit_trust_scholarships__description,Beit Trust Scholarships,field:Description,"Scholarship: Beit Trust Scholarships
+Provider: The Beit Trust
+Field: any
+Funding: fully_funded
+
+Provides Master's and PhD funding for students from Malawi, Zambia, or Zimbabwe to study at leading universities in the UK, Ireland, or South Africa.",36
+deca_scholarship__summary,DECA SCHOLARSHIP,summary,"Scholarship: DECA SCHOLARSHIP
+Supports DECA student members pursuing business-related fields of study.
+Provider: DECA Inc.
+Level: high_school
+Field: business",19
+deca_scholarship__provider_sponsor,DECA SCHOLARSHIP,field:Provider/Sponsor,"Scholarship: DECA SCHOLARSHIP
+Provider: DECA Inc.
+Level: high_school
+Field: business
+
+Provider/Sponsor: DECA Inc.",13
+deca_scholarship__level,DECA SCHOLARSHIP,field:Level,"Scholarship: DECA SCHOLARSHIP
+Provider: DECA Inc.
+Level: high_school
+Field: business
+
+Level: high_school",12
+deca_scholarship__field_of_study,DECA SCHOLARSHIP,field:Field of Study,"Scholarship: DECA SCHOLARSHIP
+Provider: DECA Inc.
+Level: high_school
+Field: business
+
+Field of Study: business",14
+deca_scholarship__min_grade_gpa,DECA SCHOLARSHIP,field:Min Grade/GPA,"Scholarship: DECA SCHOLARSHIP
+Provider: DECA Inc.
+Level: high_school
+Field: business
+
+Min Grade/GPA: High school or college DECA members intending to study entrepreneurship, finance, hospitality, management, or marketing.",27
+deca_scholarship__deadline,DECA SCHOLARSHIP,field:Deadline,"Scholarship: DECA SCHOLARSHIP
+Provider: DECA Inc.
+Level: high_school
+Field: business
+
+Deadline: Varies by cycle",14
+deca_scholarship__amount,DECA SCHOLARSHIP,field:Amount,"Scholarship: DECA SCHOLARSHIP
+Provider: DECA Inc.
+Level: high_school
+Field: business
+
+Amount: $5,000 (5 awards)",14
+deca_scholarship__description,DECA SCHOLARSHIP,field:Description,"Scholarship: DECA SCHOLARSHIP
+Provider: DECA Inc.
+Level: high_school
+Field: business
+
+Supports DECA student members pursuing business-related fields of study.",19
+sbb_research_group_stem_scholarship__summary,SBB Research Group STEM Scholarship,summary,"Scholarship: SBB Research Group STEM Scholarship
+Supports students creating value through interdisciplinary STEM study, including software and computational fields.
+Provider: SBB Research Group
+Level: undergraduate
+Field: computer_science",27
+sbb_research_group_stem_scholarship__provider_sponsor,SBB Research Group STEM Scholarship,field:Provider/Sponsor,"Scholarship: SBB Research Group STEM Scholarship
+Provider: SBB Research Group
+Level: undergraduate
+Field: computer_science
+
+Provider/Sponsor: SBB Research Group",18
+sbb_research_group_stem_scholarship__level,SBB Research Group STEM Scholarship,field:Level,"Scholarship: SBB Research Group STEM Scholarship
+Provider: SBB Research Group
+Level: undergraduate
+Field: computer_science
+
+Level: undergraduate",16
+sbb_research_group_stem_scholarship__field_of_study,SBB Research Group STEM Scholarship,field:Field of Study,"Scholarship: SBB Research Group STEM Scholarship
+Provider: SBB Research Group
+Level: undergraduate
+Field: computer_science
+
+Field of Study: computer_science",18
+sbb_research_group_stem_scholarship__min_grade_gpa,SBB Research Group STEM Scholarship,field:Min Grade/GPA,"Scholarship: SBB Research Group STEM Scholarship
+Provider: SBB Research Group
+Level: undergraduate
+Field: computer_science
+
+Min Grade/GPA: Open to students pursuing interdisciplinary combinations of science, technology, engineering, and mathematics.",28
+sbb_research_group_stem_scholarship__deadline,SBB Research Group STEM Scholarship,field:Deadline,"Scholarship: SBB Research Group STEM Scholarship
+Provider: SBB Research Group
+Level: undergraduate
+Field: computer_science
+
+Deadline: rolling",16
+sbb_research_group_stem_scholarship__description,SBB Research Group STEM Scholarship,field:Description,"Scholarship: SBB Research Group STEM Scholarship
+Provider: SBB Research Group
+Level: undergraduate
+Field: computer_science
+
+Supports students creating value through interdisciplinary STEM study, including software and computational fields.",27
+rotary_peace_fellowship__summary,Rotary Peace Fellowship,summary,"Scholarship: Rotary Peace Fellowship
+Fully funds a Master's degree in peace and conflict resolution-related fields at partner universities worldwide, covering tuition, accommodation, transportation, and field-study expenses.
+Provider: N/A
+Level: postgraduate
+Field: peace and conflict studies, international relations, and related social science fields
+Funding: fully_funded",44
+rotary_peace_fellowship__provider_sponsor,Rotary Peace Fellowship,field:Provider/Sponsor,"Scholarship: Rotary Peace Fellowship
+Provider: N/A
+Level: postgraduate
+Field: peace and conflict studies, international relations, and related social science fields
+Funding: fully_funded
+
+Provider/Sponsor: N/A",24
+rotary_peace_fellowship__level,Rotary Peace Fellowship,field:Level,"Scholarship: Rotary Peace Fellowship
+Provider: N/A
+Level: postgraduate
+Field: peace and conflict studies, international relations, and related social science fields
+Funding: fully_funded
+
+Level: postgraduate",24
+rotary_peace_fellowship__field_of_study,Rotary Peace Fellowship,field:Field of Study,"Scholarship: Rotary Peace Fellowship
+Provider: N/A
+Level: postgraduate
+Field: peace and conflict studies, international relations, and related social science fields
+Funding: fully_funded
+
+Field of Study: peace and conflict studies, international relations, and related social science fields",36
+rotary_peace_fellowship__country_region,Rotary Peace Fellowship,field:Country/Region,"Scholarship: Rotary Peace Fellowship
+Provider: N/A
+Level: postgraduate
+Field: peace and conflict studies, international relations, and related social science fields
+Funding: fully_funded
+
+Country/Region: Open worldwide",25
+rotary_peace_fellowship__funding_type,Rotary Peace Fellowship,field:Funding Type,"Scholarship: Rotary Peace Fellowship
+Provider: N/A
+Level: postgraduate
+Field: peace and conflict studies, international relations, and related social science fields
+Funding: fully_funded
+
+Funding Type: fully_funded",25
+rotary_peace_fellowship__need_based,Rotary Peace Fellowship,field:Need Based?,"Scholarship: Rotary Peace Fellowship
+Provider: N/A
+Level: postgraduate
+Field: peace and conflict studies, international relations, and related social science fields
+Funding: fully_funded
+
+Need Based?: no",25
+rotary_peace_fellowship__min_grade_gpa,Rotary Peace Fellowship,field:Min Grade/GPA,"Scholarship: Rotary Peace Fellowship
+Provider: N/A
+Level: postgraduate
+Field: peace and conflict studies, international relations, and related social science fields
+Funding: fully_funded
+
+Min Grade/GPA: Relevant work or volunteer experience in peace-building or related fields, alongside strong academic credentials",38
+rotary_peace_fellowship__deadline,Rotary Peace Fellowship,field:Deadline,"Scholarship: Rotary Peace Fellowship
+Provider: N/A
+Level: postgraduate
+Field: peace and conflict studies, international relations, and related social science fields
+Funding: fully_funded
+
+Deadline: VARIES BY CYCLE",26
+rotary_peace_fellowship__amount,Rotary Peace Fellowship,field:Amount,"Scholarship: Rotary Peace Fellowship
+Provider: N/A
+Level: postgraduate
+Field: peace and conflict studies, international relations, and related social science fields
+Funding: fully_funded
+
+Amount: NULL",24
+rotary_peace_fellowship__description,Rotary Peace Fellowship,field:Description,"Scholarship: Rotary Peace Fellowship
+Provider: N/A
+Level: postgraduate
+Field: peace and conflict studies, international relations, and related social science fields
+Funding: fully_funded
+
+Fully funds a Master's degree in peace and conflict resolution-related fields at partner universities worldwide, covering tuition, accommodation, transportation, and field-study expenses.",44
+daad_in_country_in_region_master_s_scholarship_sub_saharan_africa__summary,DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa),summary,"Scholarship: DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa)
+Funds Master's study at top African universities and research institutions, covering tuition, a monthly stipend, study/research allowances, and thesis publishing costs, keeping talented graduates working within the African higher education system.
+Provider: N/A
+Field: development-related fields at partner african universities (includes engineering, science, urban studies, and other disciplines depending on the specific program)
+Funding: fully_funded",62
+daad_in_country_in_region_master_s_scholarship_sub_saharan_africa__provider_sponsor,DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa),field:Provider/Sponsor,"Scholarship: DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa)
+Provider: N/A
+Field: development-related fields at partner african universities (includes engineering, science, urban studies, and other disciplines depending on the specific program)
+Funding: fully_funded
+
+Provider/Sponsor: N/A",33
+daad_in_country_in_region_master_s_scholarship_sub_saharan_africa__field_of_study,DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa),field:Field of Study,"Scholarship: DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa)
+Provider: N/A
+Field: development-related fields at partner african universities (includes engineering, science, urban studies, and other disciplines depending on the specific program)
+Funding: fully_funded
+
+Field of Study: development-related fields at partner african universities (includes engineering, science, urban studies, and other disciplines depending on the specific program)",53
+daad_in_country_in_region_master_s_scholarship_sub_saharan_africa__funding_type,DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa),field:Funding Type,"Scholarship: DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa)
+Provider: N/A
+Field: development-related fields at partner african universities (includes engineering, science, urban studies, and other disciplines depending on the specific program)
+Funding: fully_funded
+
+Funding Type: fully_funded",34
+daad_in_country_in_region_master_s_scholarship_sub_saharan_africa__need_based,DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa),field:Need Based?,"Scholarship: DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa)
+Provider: N/A
+Field: development-related fields at partner african universities (includes engineering, science, urban studies, and other disciplines depending on the specific program)
+Funding: fully_funded
+
+Need Based?: yes",34
+daad_in_country_in_region_master_s_scholarship_sub_saharan_africa__min_grade_gpa,DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa),field:Min Grade/GPA,"Scholarship: DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa)
+Provider: N/A
+Field: development-related fields at partner african universities (includes engineering, science, urban studies, and other disciplines depending on the specific program)
+Funding: fully_funded
+
+Min Grade/GPA: First academic degree (Bachelor's) relevant to the Master's program applied for; female applicants and candidates from less-privileged regions are especially encouraged",54
+daad_in_country_in_region_master_s_scholarship_sub_saharan_africa__deadline,DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa),field:Deadline,"Scholarship: DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa)
+Provider: N/A
+Field: development-related fields at partner african universities (includes engineering, science, urban studies, and other disciplines depending on the specific program)
+Funding: fully_funded
+
+Deadline: Varies by individual program; new calls typically published in autumn for the following year",46
+daad_in_country_in_region_master_s_scholarship_sub_saharan_africa__description,DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa),field:Description,"Scholarship: DAAD In-Country/In-Region Master's Scholarship (Sub-Saharan Africa)
+Provider: N/A
+Field: development-related fields at partner african universities (includes engineering, science, urban studies, and other disciplines depending on the specific program)
+Funding: fully_funded
+
+Funds Master's study at top African universities and research institutions, covering tuition, a monthly stipend, study/research allowances, and thesis publishing costs, keeping talented graduates working within the African higher education system.",62
+africa_london_nagasaki_aln_fund__summary,Africa London Nagasaki (ALN) Fund,summary,"Scholarship: Africa London Nagasaki (ALN) Fund
+Funds a Master's degree related to disease control in Africa, with recipients choosing to study at the London School of Hygiene and Tropical Medicine or Nagasaki University in Japan.
+Provider: London School of Hygiene & Tropical Medicine / Nagasaki University
+Level: postgraduate
+Field: medicine and disease control / tropical medicine",56
+africa_london_nagasaki_aln_fund__provider_sponsor,Africa London Nagasaki (ALN) Fund,field:Provider/Sponsor,"Scholarship: Africa London Nagasaki (ALN) Fund
+Provider: London School of Hygiene & Tropical Medicine / Nagasaki University
+Level: postgraduate
+Field: medicine and disease control / tropical medicine
+
+Provider/Sponsor: London School of Hygiene & Tropical Medicine / Nagasaki University",38
+africa_london_nagasaki_aln_fund__level,Africa London Nagasaki (ALN) Fund,field:Level,"Scholarship: Africa London Nagasaki (ALN) Fund
+Provider: London School of Hygiene & Tropical Medicine / Nagasaki University
+Level: postgraduate
+Field: medicine and disease control / tropical medicine
+
+Level: postgraduate",29
+africa_london_nagasaki_aln_fund__field_of_study,Africa London Nagasaki (ALN) Fund,field:Field of Study,"Scholarship: Africa London Nagasaki (ALN) Fund
+Provider: London School of Hygiene & Tropical Medicine / Nagasaki University
+Level: postgraduate
+Field: medicine and disease control / tropical medicine
+
+Field of Study: medicine and disease control / tropical medicine",37
+africa_london_nagasaki_aln_fund__country_region,Africa London Nagasaki (ALN) Fund,field:Country/Region,"Scholarship: Africa London Nagasaki (ALN) Fund
+Provider: London School of Hygiene & Tropical Medicine / Nagasaki University
+Level: postgraduate
+Field: medicine and disease control / tropical medicine
+
+Country/Region: TBC",29
+africa_london_nagasaki_aln_fund__need_based,Africa London Nagasaki (ALN) Fund,field:Need Based?,"Scholarship: Africa London Nagasaki (ALN) Fund
+Provider: London School of Hygiene & Tropical Medicine / Nagasaki University
+Level: postgraduate
+Field: medicine and disease control / tropical medicine
+
+Need Based?: no",30
+africa_london_nagasaki_aln_fund__min_grade_gpa,Africa London Nagasaki (ALN) Fund,field:Min Grade/GPA,"Scholarship: Africa London Nagasaki (ALN) Fund
+Provider: London School of Hygiene & Tropical Medicine / Nagasaki University
+Level: postgraduate
+Field: medicine and disease control / tropical medicine
+
+Min Grade/GPA: NULL",30
+africa_london_nagasaki_aln_fund__deadline,Africa London Nagasaki (ALN) Fund,field:Deadline,"Scholarship: Africa London Nagasaki (ALN) Fund
+Provider: London School of Hygiene & Tropical Medicine / Nagasaki University
+Level: postgraduate
+Field: medicine and disease control / tropical medicine
+
+Deadline: Varies by cycle",31
+africa_london_nagasaki_aln_fund__description,Africa London Nagasaki (ALN) Fund,field:Description,"Scholarship: Africa London Nagasaki (ALN) Fund
+Provider: London School of Hygiene & Tropical Medicine / Nagasaki University
+Level: postgraduate
+Field: medicine and disease control / tropical medicine
+
+Funds a Master's degree related to disease control in Africa, with recipients choosing to study at the London School of Hygiene and Tropical Medicine or Nagasaki University in Japan.",56
+future_designer_scholarship__summary,Future Designer Scholarship,summary,"Scholarship: Future Designer Scholarship
+A design contest scholarship for students with a creative eye, centered on holiday card design.
+Provider: Scholarships360
+Level: undergraduate
+Field: art_design",25
+future_designer_scholarship__provider_sponsor,Future Designer Scholarship,field:Provider/Sponsor,"Scholarship: Future Designer Scholarship
+Provider: Scholarships360
+Level: undergraduate
+Field: art_design
+
+Provider/Sponsor: Scholarships360",12
+future_designer_scholarship__level,Future Designer Scholarship,field:Level,"Scholarship: Future Designer Scholarship
+Provider: Scholarships360
+Level: undergraduate
+Field: art_design
+
+Level: undergraduate",12
+future_designer_scholarship__field_of_study,Future Designer Scholarship,field:Field of Study,"Scholarship: Future Designer Scholarship
+Provider: Scholarships360
+Level: undergraduate
+Field: art_design
+
+Field of Study: art_design",14
+future_designer_scholarship__min_grade_gpa,Future Designer Scholarship,field:Min Grade/GPA,"Scholarship: Future Designer Scholarship
+Provider: Scholarships360
+Level: undergraduate
+Field: art_design
+
+Min Grade/GPA: Incoming or current full-time college students over 17. Requires designing a holiday-themed greeting card.",26
+future_designer_scholarship__deadline,Future Designer Scholarship,field:Deadline,"Scholarship: Future Designer Scholarship
+Provider: Scholarships360
+Level: undergraduate
+Field: art_design
+
+Deadline: Varies by cycle",14
+future_designer_scholarship__amount,Future Designer Scholarship,field:Amount,"Scholarship: Future Designer Scholarship
+Provider: Scholarships360
+Level: undergraduate
+Field: art_design
+
+Amount: $1,000",12
+future_designer_scholarship__description,Future Designer Scholarship,field:Description,"Scholarship: Future Designer Scholarship
+Provider: Scholarships360
+Level: undergraduate
+Field: art_design
+
+A design contest scholarship for students with a creative eye, centered on holiday card design.",25
+association_for_iron_steel_technology_scholarship__summary,Association for Iron & Steel Technology Scholarship,summary,"Scholarship: Association for Iron & Steel Technology Scholarship
+A technology-and-engineering focused award for students in computing and data-related majors.
+Provider: AIST
+Level: undergraduate
+Field: computer_science",25
+association_for_iron_steel_technology_scholarship__provider_sponsor,Association for Iron & Steel Technology Scholarship,field:Provider/Sponsor,"Scholarship: Association for Iron & Steel Technology Scholarship
+Provider: AIST
+Level: undergraduate
+Field: computer_science
+
+Provider/Sponsor: AIST",16
+association_for_iron_steel_technology_scholarship__level,Association for Iron & Steel Technology Scholarship,field:Level,"Scholarship: Association for Iron & Steel Technology Scholarship
+Provider: AIST
+Level: undergraduate
+Field: computer_science
+
+Level: undergraduate",16
+association_for_iron_steel_technology_scholarship__field_of_study,Association for Iron & Steel Technology Scholarship,field:Field of Study,"Scholarship: Association for Iron & Steel Technology Scholarship
+Provider: AIST
+Level: undergraduate
+Field: computer_science
+
+Field of Study: computer_science",18
+association_for_iron_steel_technology_scholarship__deadline,Association for Iron & Steel Technology Scholarship,field:Deadline,"Scholarship: Association for Iron & Steel Technology Scholarship
+Provider: AIST
+Level: undergraduate
+Field: computer_science
+
+Deadline: October 15, 2026",18
+association_for_iron_steel_technology_scholarship__amount,Association for Iron & Steel Technology Scholarship,field:Amount,"Scholarship: Association for Iron & Steel Technology Scholarship
+Provider: AIST
+Level: undergraduate
+Field: computer_science
+
+Amount: $10,000",16
+association_for_iron_steel_technology_scholarship__description,Association for Iron & Steel Technology Scholarship,field:Description,"Scholarship: Association for Iron & Steel Technology Scholarship
+Provider: AIST
+Level: undergraduate
+Field: computer_science
+
+A technology-and-engineering focused award for students in computing and data-related majors.",25
+kmf_scholarship__summary,KMF Scholarship,summary,"Scholarship: KMF Scholarship
+Supports mature, high-achieving students preparing to enter business or tech careers.
+Provider: KMF Foundation
+Level: undergraduate
+Field: business",21
+kmf_scholarship__provider_sponsor,KMF Scholarship,field:Provider/Sponsor,"Scholarship: KMF Scholarship
+Provider: KMF Foundation
+Level: undergraduate
+Field: business
+
+Provider/Sponsor: KMF Foundation",13
+kmf_scholarship__level,KMF Scholarship,field:Level,"Scholarship: KMF Scholarship
+Provider: KMF Foundation
+Level: undergraduate
+Field: business
+
+Level: undergraduate",12
+kmf_scholarship__field_of_study,KMF Scholarship,field:Field of Study,"Scholarship: KMF Scholarship
+Provider: KMF Foundation
+Level: undergraduate
+Field: business
+
+Field of Study: business",14
+kmf_scholarship__min_grade_gpa,KMF Scholarship,field:Min Grade/GPA,"Scholarship: KMF Scholarship
+Provider: KMF Foundation
+Level: undergraduate
+Field: business
+
+Min Grade/GPA: High-achieving college juniors and seniors with an entrepreneurial mindset and a career focus in business or technology; special consideration given to students from less-privileged backgrounds.",37
+kmf_scholarship__deadline,KMF Scholarship,field:Deadline,"Scholarship: KMF Scholarship
+Provider: KMF Foundation
+Level: undergraduate
+Field: business
+
+Deadline: N/A",12
+kmf_scholarship__amount,KMF Scholarship,field:Amount,"Scholarship: KMF Scholarship
+Provider: KMF Foundation
+Level: undergraduate
+Field: business
+
+Amount: TBC",12
+kmf_scholarship__description,KMF Scholarship,field:Description,"Scholarship: KMF Scholarship
+Provider: KMF Foundation
+Level: undergraduate
+Field: business
+
+Supports mature, high-achieving students preparing to enter business or tech careers.",21
+national_writers_association_foundation_scholarships__summary,National Writers Association Foundation Scholarships,summary,"Scholarship: National Writers Association Foundation Scholarships
+Supports aspiring writers of any background in continuing their education and craft development.
+Provider: N/A
+Level: all
+Field: writing",25
+national_writers_association_foundation_scholarships__provider_sponsor,National Writers Association Foundation Scholarships,field:Provider/Sponsor,"Scholarship: National Writers Association Foundation Scholarships
+Provider: N/A
+Level: all
+Field: writing
+
+Provider/Sponsor: N/A",14
+national_writers_association_foundation_scholarships__level,National Writers Association Foundation Scholarships,field:Level,"Scholarship: National Writers Association Foundation Scholarships
+Provider: N/A
+Level: all
+Field: writing
+
+Level: all",14
+national_writers_association_foundation_scholarships__field_of_study,National Writers Association Foundation Scholarships,field:Field of Study,"Scholarship: National Writers Association Foundation Scholarships
+Provider: N/A
+Level: all
+Field: writing
+
+Field of Study: writing",16
+national_writers_association_foundation_scholarships__deadline,National Writers Association Foundation Scholarships,field:Deadline,"Scholarship: National Writers Association Foundation Scholarships
+Provider: N/A
+Level: all
+Field: writing
+
+Deadline: Applications accepted October 1 / December 31 each year",22
+national_writers_association_foundation_scholarships__description,National Writers Association Foundation Scholarships,field:Description,"Scholarship: National Writers Association Foundation Scholarships
+Provider: N/A
+Level: all
+Field: writing
+
+Supports aspiring writers of any background in continuing their education and craft development.",25
+commonwealth_shared_scholarship__summary,Commonwealth Shared Scholarship,summary,"Scholarship: Commonwealth Shared Scholarship
+Jointly funded by the CSC and participating UK universities, this covers a one-year taught Master's degree including tuition, living costs, and flights, specifically for students who could not otherwise afford UK study.
+Provider: Commonwealth Scholarship Commission (CSC), UK
+Level: postgraduate
+Field: any subject with clear relevance to the economic, social, or technological development of the applicant's home country (varies by participating uk university each year)
+Funding: fully_funded",71
+commonwealth_shared_scholarship__provider_sponsor,Commonwealth Shared Scholarship,field:Provider/Sponsor,"Scholarship: Commonwealth Shared Scholarship
+Provider: Commonwealth Scholarship Commission (CSC), UK
+Level: postgraduate
+Field: any subject with clear relevance to the economic, social, or technological development of the applicant's home country (varies by participating uk university each year)
+Funding: fully_funded
+
+Provider/Sponsor: Commonwealth Scholarship Commission (CSC), UK",45
+commonwealth_shared_scholarship__level,Commonwealth Shared Scholarship,field:Level,"Scholarship: Commonwealth Shared Scholarship
+Provider: Commonwealth Scholarship Commission (CSC), UK
+Level: postgraduate
+Field: any subject with clear relevance to the economic, social, or technological development of the applicant's home country (varies by participating uk university each year)
+Funding: fully_funded
+
+Level: postgraduate",41
+commonwealth_shared_scholarship__field_of_study,Commonwealth Shared Scholarship,field:Field of Study,"Scholarship: Commonwealth Shared Scholarship
+Provider: Commonwealth Scholarship Commission (CSC), UK
+Level: postgraduate
+Field: any subject with clear relevance to the economic, social, or technological development of the applicant's home country (varies by participating uk university each year)
+Funding: fully_funded
+
+Field of Study: any subject with clear relevance to the economic, social, or technological development of the applicant's home country (varies by participating uk university each year)",66
+commonwealth_shared_scholarship__country_region,Commonwealth Shared Scholarship,field:Country/Region,"Scholarship: Commonwealth Shared Scholarship
+Provider: Commonwealth Scholarship Commission (CSC), UK
+Level: postgraduate
+Field: any subject with clear relevance to the economic, social, or technological development of the applicant's home country (varies by participating uk university each year)
+Funding: fully_funded
+
+Country/Region: TBC",41
+commonwealth_shared_scholarship__funding_type,Commonwealth Shared Scholarship,field:Funding Type,"Scholarship: Commonwealth Shared Scholarship
+Provider: Commonwealth Scholarship Commission (CSC), UK
+Level: postgraduate
+Field: any subject with clear relevance to the economic, social, or technological development of the applicant's home country (varies by participating uk university each year)
+Funding: fully_funded
+
+Funding Type: fully_funded",42
+commonwealth_shared_scholarship__need_based,Commonwealth Shared Scholarship,field:Need Based?,"Scholarship: Commonwealth Shared Scholarship
+Provider: Commonwealth Scholarship Commission (CSC), UK
+Level: postgraduate
+Field: any subject with clear relevance to the economic, social, or technological development of the applicant's home country (varies by participating uk university each year)
+Funding: fully_funded
+
+Need Based?: yes",42
+commonwealth_shared_scholarship__min_grade_gpa,Commonwealth Shared Scholarship,field:Min Grade/GPA,"Scholarship: Commonwealth Shared Scholarship
+Provider: Commonwealth Scholarship Commission (CSC), UK
+Level: postgraduate
+Field: any subject with clear relevance to the economic, social, or technological development of the applicant's home country (varies by participating uk university each year)
+Funding: fully_funded
+
+Min Grade/GPA: First degree of at least upper second-class (2:1) honours, or a lower second-class (2:2) degree plus a relevant postgraduate qualification; must not have studied or worked a year or more in a high-income country",75
+commonwealth_shared_scholarship__deadline,Commonwealth Shared Scholarship,field:Deadline,"Scholarship: Commonwealth Shared Scholarship
+Provider: Commonwealth Scholarship Commission (CSC), UK
+Level: postgraduate
+Field: any subject with clear relevance to the economic, social, or technological development of the applicant's home country (varies by participating uk university each year)
+Funding: fully_funded
+
+Deadline: OPENS MID/NOVEMBER, CLOSES EARLY DECEMBER (E.G. DECEMBER 9, 2025 FOR THE 2026/27 CYCLE)",53
+commonwealth_shared_scholarship__description,Commonwealth Shared Scholarship,field:Description,"Scholarship: Commonwealth Shared Scholarship
+Provider: Commonwealth Scholarship Commission (CSC), UK
+Level: postgraduate
+Field: any subject with clear relevance to the economic, social, or technological development of the applicant's home country (varies by participating uk university each year)
+Funding: fully_funded
+
+Jointly funded by the CSC and participating UK universities, this covers a one-year taught Master's degree including tuition, living costs, and flights, specifically for students who could not otherwise afford UK study.",71

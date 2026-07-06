@@ -4,7 +4,9 @@ GlobalEdu Bridge — AI Scholarship Assistant Chatbot
 
 import sys
 import re
+import json
 from dataclasses import dataclass, field
+from pathlib import Path
 from typing import Optional
 
 # ─── Grade Conversion Tables ───────────────────────────────────────────────
@@ -286,6 +288,116 @@ class StudentProfile:
     financial_need: bool = False
 
 
+# ─── RAG Integration ─────────────────────────────────────────────────────────
+
+
+DATA_DIR = Path(__file__).parent / "data"
+EMBEDDINGS_PATH = DATA_DIR / "embeddings.json"
+
+
+class RagMatcher:
+    """Queries the vector store (NumpyStore fallback) using the student profile."""
+
+    def __init__(self):
+        self.store = None
+        self.chunks = []
+        self._loaded = False
+
+    def _load(self):
+        if self._loaded:
+            return
+        path = EMBEDDINGS_PATH
+        if not path.exists():
+            print("[RAG] embeddings.json not found — skipping RAG matching")
+            self._loaded = True
+            return
+
+        with open(path) as f:
+            self.chunks = json.load(f)
+
+        from data.vector_store import NumpyStore
+        self.store = NumpyStore()
+        self.store.build(self.chunks)
+        self._loaded = True
+        print(f"[RAG] loaded {len(self.chunks)} embedded chunks")
+
+    def search(self, profile: "StudentProfile", top_k: int = 20) -> list[dict]:
+        """Build a query from the profile and search the vector store."""
+        self._load()
+        if self.store is None:
+            return []
+
+        parts = [f"{profile.level} {profile.field} scholarship"]
+        if profile.country:
+            parts.append(f"for students from {profile.country}")
+        if profile.financial_need:
+            parts.append("financial need based")
+        if profile.gpa is not None and profile.gpa >= 3.0:
+            parts.append("strong academic record")
+        query = " ".join(parts)
+
+        from sklearn.feature_extraction.text import TfidfVectorizer
+        texts = [c["text"] for c in self.chunks]
+        vec = TfidfVectorizer(max_features=256, stop_words="english", ngram_range=(1, 2))
+        vec.fit(texts)
+        embedding = vec.transform([query]).toarray()[0].tolist()
+
+        results = self.store.query(query, embedding, top_k=top_k)
+        return results
+
+    def get_scholarships(self, profile: "StudentProfile") -> list["Scholarship"]:
+        """Search vector store and return Scholarship objects grouped by name."""
+        results = self.search(profile)
+        if not results:
+            return []
+
+        seen = {}
+        for r in results:
+            name = r["scholarship_name"]
+            if name in seen:
+                continue
+            meta = {}
+            for c in self.chunks:
+                if c["scholarship_name"] == name:
+                    meta = c.get("metadata", {})
+                    break
+
+            funding = (meta.get("Funding Type", "") or "").lower()
+            need = (meta.get("Need Based?", "") or "").lower()
+            gpa_str = (meta.get("Min Grade/GPA", "") or "").strip().lower()
+            level_str = (meta.get("Level", "") or "").strip().lower()
+            field_str = (meta.get("Field of Study", "") or "").strip()
+
+            min_gpa = 0.0
+            if "3." in gpa_str:
+                import re as _re
+                m = _re.search(r"3\.\d", gpa_str)
+                if m:
+                    min_gpa = float(m.group())
+
+            levels = [level_str] if level_str else ["any"]
+            regions = ["Africa"] if "africa" in (meta.get("Country/Region", "") or "").lower() else ["any"]
+            fields = ["any"]
+            if field_str and field_str != "any":
+                fields = [field_str]
+
+            scholarship = Scholarship(
+                name=name,
+                min_gpa=min_gpa,
+                levels=levels,
+                regions=regions,
+                fields=fields,
+                description=(meta.get("Description", "") or "").strip() or (r.get("text", "") or ""),
+                deadline=(meta.get("Deadline", "") or "").strip() or "See website",
+                fully_funded="fully" in funding or "full" in funding,
+                financial_need_based=need in ("yes", "y", "true"),
+                link=(meta.get("Source", "") or "").strip() or "",
+            )
+            seen[name] = scholarship
+
+        return list(seen.values())
+
+
 # ─── Chatbot ───────────────────────────────────────────────────────────────
 
 
@@ -385,7 +497,6 @@ COUNTRY_REGION_MAP: dict[str, list[str]] = {
     "tanzania": ["Africa", "Tanzania"],
     "uganda": ["Africa", "Uganda"],
     "rwanda": ["Africa", "Rwanda"],
-    "ghana": ["Africa", "Ghana"],
     "senegal": ["Africa", "Senegal"],
     "ivory coast": ["Africa", "Côte d'Ivoire"],
     "côte d'ivoire": ["Africa", "Côte d'Ivoire"],
@@ -436,9 +547,27 @@ def matches_region(scholarship: Scholarship, country: str) -> bool:
     return False
 
 
+_rag_matcher = None
+
+
+def get_rag_matcher() -> RagMatcher:
+    global _rag_matcher
+    if _rag_matcher is None:
+        _rag_matcher = RagMatcher()
+    return _rag_matcher
+
+
 def match_scholarships(profile: StudentProfile) -> list[Scholarship]:
-    matched = []
+    # 1. Try RAG vector search first
+    rag = get_rag_matcher()
+    rag_results = rag.get_scholarships(profile)
+    rag_names = {s.name for s in rag_results}
+
+    # 2. Fallback to hardcoded scholarships (skip ones RAG already found)
+    matched = list(rag_results)
     for s in SCHOLARSHIPS:
+        if s.name in rag_names:
+            continue
         if profile.gpa is not None and profile.gpa < s.min_gpa:
             continue
         if profile.level not in s.levels:
@@ -450,6 +579,7 @@ def match_scholarships(profile: StudentProfile) -> list[Scholarship]:
         if s.financial_need_based and not profile.financial_need:
             continue
         matched.append(s)
+
     return matched
 
 
@@ -532,6 +662,8 @@ def show_scholarships(matched: list[Scholarship]):
         print(f"      {s.description}")
         print(f"      {funding}{need}")
         print(f"      📅 Deadline: {s.deadline}")
+        if s.link:
+            print(f"      🔗 {s.link}")
         print()
 
 
