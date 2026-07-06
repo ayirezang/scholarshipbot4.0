@@ -17,7 +17,8 @@ st.set_page_config(page_title="GlobalEdu Bridge", page_icon="🎓", layout="wide
 
 st.markdown("""
 <style>
-    .hero { text-align: center; padding: 2rem 0 1rem; }
+    .landing-page { min-height: 100vh; display: flex; flex-direction: column; justify-content: center; }
+    .hero { text-align: center; padding: 1rem 0; }
     .hero h1 { font-size: 2.8rem; margin-bottom: 0.3rem; }
     .hero p { font-size: 1.1rem; color: #666; max-width: 600px; margin: auto; }
     .feature-card {
@@ -49,6 +50,7 @@ profile = st.session_state.profile
 # ─── LANDING PAGE ─────────────────────────────────────────────────────
 
 if st.session_state.step == "landing":
+    st.markdown('<div class="landing-page">', unsafe_allow_html=True)
     st.markdown('<div class="hero">', unsafe_allow_html=True)
     st.markdown("# 🎓 GlobalEdu Bridge")
     st.markdown("### AI Scholarship Assistant")
@@ -90,6 +92,7 @@ if st.session_state.step == "landing":
         '<div class="footer">GlobalEdu Bridge v1.0 — RAG-powered scholarship discovery</div>',
         unsafe_allow_html=True
     )
+    st.markdown('</div>', unsafe_allow_html=True)
 
 # ─── PROFILE FORM ─────────────────────────────────────────────────────
 
