@@ -1,43 +1,49 @@
- # GlobalEdu Bridge.AN  AI Scholarship Assistant Chatbot
+# GlobalEdu Bridge.AN AI Scholarship Assistant Chatbot
 
 An AI-powered scholarship assistant that helps students from Africa and underserved regions discover fully-funded and partial scholarships matched to their academic profile.
 
 # Features
 
-*Smart Matching* : RAG powered semantic search across 20+ scholarships
-*Grade Conversion* : Supports WASSCE, BECE, A-Levels, KCSE, US GPA, JAMB, percentages, IB, Baccalaureate, Abitur
-*Multiple Interfaces* : Terminal CLI, Streamlit web app, Flask web API
-*Vector Search* : ChromaDB (primary) with NumPy+sklearn fallback
-*Application Guidance* :Personal statement builder, document checklist
-*Deploy Ready* : Config for Render, Gunicorn, Flask
+_Smart Matching_ : RAG powered semantic search across 20+ scholarships
+_Grade Conversion_ : Supports WASSCE, BECE, A-Levels, KCSE, US GPA, JAMB, percentages, IB, Baccalaureate, Abitur
+_Multiple Interfaces_ : Terminal CLI, Streamlit web app, Flask web API
+_Vector Search_ : ChromaDB (primary) with NumPy+sklearn fallback
+_Application Guidance_ :Personal statement builder, document checklist
+_Deploy Ready_ : Config for Render, Gunicorn, Flask
 
 # Quick Start
 
 bash
+
 # Clone
+
 git clone https://github.com/ayirezang/scholarshipbot4.0.git
 cd scholarshipbot4.0
 
 # Install
+
 pip install -r requirements.txt
 
 # Run CLI##
+
 python main.py
 
 # Run Streamlit
+
 streamlit run streamlit_app.py
 
 # Run Flask
+
 gunicorn wsgi:app
+
 ```
 
 ## Interfaces
 
-| Interface | Command | Description |
-|-----------|---------|-------------|
-| CLI | `python main.py` | Terminal-based chatbot |
-| Streamlit | `streamlit run streamlit_app.py` | Rich web UI |
-| Flask API | `gunicorn wsgi:app` | REST API + web chat at `/` |
+
+Interface: CLI Command:python main.py Description: Terminal-based chatbot
+Interface: Streamlit Command:streamlit run streamlit_app.py Description: Rich web UI
+Interdace: Flask API Command: gunicorn wsgi:app Description: REST API + web chat at `/`
 
 # Grade Systems Supported
 
@@ -63,8 +69,7 @@ python data/vector_store.py query "engineering scholarships for Africa" re-embed
 ## Data Pipeline
 
 
-scholarships_clean.csv  clean_scholarships.py scholarships_deduped.csv
- chunk_scholarships.py chunks.json  embed_chunks.py  embeddings.json
+scholarships_clean.csv  clean_scholarships.py scholarships_deduped.csv chunk_scholarships.py chunks.json  embed_chunks.py  embeddings.json
 vector_store.py chroma_db/
 
 
@@ -85,3 +90,4 @@ MIT
 
 
 live link:https://scholarshipbot4-0-2.onrender.com
+```
